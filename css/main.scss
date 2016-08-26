@@ -37,3 +37,22 @@ $on-laptop:        800px;
 
 // Import partials from the `minima` theme.
 @import "minima";
+
+
+//
+// SAM STUFF
+//
+
+h1.post-title {
+  display: none;
+}
+h1[itemprop].post-title {
+  display: block;
+  font-size: 24px;
+}
+.footer-heading {
+  display: none;
+}
+header.post-header {
+  margin-bottom: 0;
+}
