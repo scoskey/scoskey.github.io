@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The complexity of classification problems for models of arithmetic
-permalink: arithmetic
+permalink: /arithmetic
 category: publication
 tags: arithmetic
 ---

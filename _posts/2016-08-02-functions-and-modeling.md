@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Functions and modeling
-permalink: 1617s-370
+permalink: /1617s-370
 category: course
 tags: modeling
 ---

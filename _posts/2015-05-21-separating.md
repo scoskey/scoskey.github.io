@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On generalizations of separating and splitting families
-permalink: separating
+permalink: /separating
 category: publication
 tags: separating
 ---

@@ -29,7 +29,7 @@ theme: minima
 
 # Sam config
 excerpt_separator: <!--more-->
-permalink: :title
+permalink: /:title
 
 # Sam custom
 slides_base: http://math.boisestate.edu/~scoskey/slides

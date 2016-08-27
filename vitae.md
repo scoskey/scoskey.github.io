@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Vitae
-permalink: vitae
+permalink: /vitae
 ---
 
 # Positions

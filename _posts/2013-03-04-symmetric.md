@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The fundamental theorem on symmetric polynomials
-permalink: symmetric
+permalink: /symmetric
 category: publication
 tags: galois, algebra
 ---

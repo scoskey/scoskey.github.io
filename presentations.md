@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Presentations
-permalink: /presentations/
+permalink: /presentations
 ---
 # Selected presentations
 
