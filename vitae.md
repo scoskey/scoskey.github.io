@@ -11,11 +11,11 @@ permalink: /vitae
 
 **Fields Ontario postdoctoral fellow**  
 *The Fields Institute and York University*, 2010&ndash;2012  
-Supervised by Ilijas Farah. Participated in Fields Institute thematic program on asymptotic geometric analysis.
+Supervised by Ilijas Farah.
 
 **Postdoctoral fellow**  
 *Max Planck Institut f&uuml;r Mathematik*, Summer 2009  
-Supervised by Peter Koepke (informally). Collaborated with the set theory workgroup at the Universität Bonn.
+Supervised by Peter Koepke (informally).
 
 **Visiting assistant professor** (postdoc)  
 *The Graduate Center of The City University of New York*, 2008&ndash;2010  
@@ -30,7 +30,7 @@ Supervised by Simon Thomas. Doctoral thesis titled *Descriptive aspects of torsi
 **B.S., Mathematics**  
 **B.S., Computer science**  
 *The University of Washington*, 2000&ndash;2003  
-Supervised by M. Scott Osborne. Senior thesis titled *Partial universes and the axioms of set theory*
+Supervised by M. Scott Osborne. Senior thesis titled *Partial universes and the axioms of set theory*.
 
 # Research interests
 
@@ -48,7 +48,7 @@ Develop and implement weekly discussions for middle and high school students abo
 
 # More about me
 
-I am originally from Seattle. I'm into math and discussing math, from the elementary to the research level. Aside from math, I have been known to juggle, play tennis and aerobie, read novels, and listen to music. I am an advocate of cycling as a means of transportation. I used to study computer science, and now I enjoy thinking about ways mathematicians can use modern web tools to share and work together.
+I am originally from Seattle. I'm into math and discussing math, from the elementary to the research level. Aside from math, I have been known to juggle, play tennis and aerobie, read novels, and listen to music. I am an advocate of cycling as a means of transportation. Having studied computer science in the past, I enjoy thinking about how modern web tools can help us share and work together on math.
 
 ![chalkboard]({{ site.img_base }}/yst.jpg)
 
