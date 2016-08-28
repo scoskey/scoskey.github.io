@@ -19,7 +19,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Department of Mathematics, Boise State University, 1910 University Dr,
   Boise, ID 83725-1555.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://scoskey.org" # the base hostname & protocol for your site
+url: "https://scoskey.github.io" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 github_username:  scoskey
 
