@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Review: Invariant descriptive set theory
+title: Review - Invariant descriptive set theory
 category: publication
 tags: set-theory, review
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Review: Two articles on the classification of C*-algebras
+title: Review - Two articles on the classification of C*-algebras
 category: publication
 tags: cstar, review
 ---
