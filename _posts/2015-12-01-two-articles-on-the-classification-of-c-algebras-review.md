@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Two articles on the classification of C*-algebras
+title: Two articles on the classification of C* algebras
 category: publication
 tags: cstar, review
 ---
 
-Review of the articles: "The isomorphism relation for separable C\*-algebras" by G. Elliott, I. Farah, et al; and "Completeness of the isomorphism problem for separable C\*-algebras" by M. Sabok. *Bulletin of symbolic logic*, 2015. ([journal](http://dx.doi.org/10.1017/bsl.2015.33))
+Review of the articles: "The isomorphism relation for separable C\* algebras" by G. Elliott, I. Farah, et al; and "Completeness of the isomorphism problem for separable C\* algebras" by M. Sabok. *Bulletin of symbolic logic*, 2015. ([journal](http://dx.doi.org/10.1017/bsl.2015.33))
