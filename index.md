@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<img style="float:right;margin-left:10px" src="{{ site.baseurl }}/assets/dogsquaresmall.jpg" alt="dog icon">
+<img style="float:right;margin-left:10px" src="{{ site.baseurl }}/assets/dogsquaresmall.jpg" alt="dog icon" />
 
 Department of Mathematics  
 Boise State University  
@@ -12,7 +12,7 @@ Boise, ID 83725-1555
 Room 237-A  
 scoskey@nylogic.org
 
-<div style="clear:both"/>
+<div style="clear:both"></div>
 
 # Recent activity
 
