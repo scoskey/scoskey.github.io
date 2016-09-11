@@ -14,10 +14,10 @@ permalink: /vitae
 Supervised by Ilijas Farah.
 
 **Postdoctoral fellow**  
-*Max Planck Institut f&uuml;r Mathematik*, Summer 2009  
+*Max Planck Institut for Mathematics*, Summer 2009  
 Supervised by Peter Koepke (informally).
 
-**Visiting assistant professor** (postdoc)  
+**Visiting assistant professor / postdoc**  
 *The Graduate Center of The City University of New York*, 2008&ndash;2010  
 Supervised by Joel Hamkins and Roman Kossak (informally).
 
