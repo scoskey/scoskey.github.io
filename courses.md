@@ -11,8 +11,7 @@ permalink: /courses
   {% assign lower = "August 1, 2016" | date: '%s' %}
   {% if postdate >= lower %}
 
-[{{ post.title }}]({{ post.url }})  
-{{ post.excerpt | remove: '<p>' | remove: '</p>' }}
+[{{ post.title }}]({{ post.url }}) {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
 
   {% endif %}
 {% endfor %}
@@ -25,8 +24,7 @@ permalink: /courses
   {% assign upper = "August 1, 2016" | date: '%s' %}
   {% if postdate >= lower and postdate < upper %}
 
-[{{ post.title }}]({{ post.url }})  
-{{ post.excerpt | remove: '<p>' | remove: '</p>' }}
+[{{ post.title }}]({{ post.url }}) {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
 
   {% endif %}
 {% endfor %}
@@ -39,8 +37,7 @@ permalink: /courses
   {% assign upper = "August 1, 2014" | date: '%s' %}
   {% if postdate >= lower and postdate < upper %}
 
-[{{ post.title }}]({{ post.url }})  
-{{ post.excerpt | remove: '<p>' | remove: '</p>' }}
+[{{ post.title }}]({{ post.url }}) {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
 
   {% endif %}
 {% endfor %}
@@ -52,8 +49,7 @@ permalink: /courses
   {% assign upper = "August 1, 2012" | date: '%s' %}
   {% if postdate < upper %}
 
-[{{ post.title }}]({{ post.url }})  
-{{ post.excerpt | remove: '<p>' | remove: '</p>' }}
+[{{ post.title }}]({{ post.url }}) {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
 
   {% endif %}
 {% endfor %}
