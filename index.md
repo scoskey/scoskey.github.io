@@ -24,4 +24,4 @@ scoskey@nylogic.org
 
 {% endfor %}
 
-**subscribe** via [rss]({{ site.baseurl }}/feed/)
+**subscribe** via [rss]({{ site.baseurl }}/feed.xml)
