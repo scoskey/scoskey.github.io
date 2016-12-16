@@ -20,7 +20,7 @@ scoskey@nylogic.org
 
 [{{ post.title }}]({{ post.url }})  
 {{ post.excerpt | remove: '<p>' | remove: '</p>' | strip }}  
-<span class="post-meta"><span style="color:green">{{ post.categories }}</span> posted on {{ post.date | date: "%b %-d, %Y" }}</span>
+<span class="post-meta"><span class="category_name">{{ post.categories }}</span> posted on {{ post.date | date: "%b %-d, %Y" }}</span>
 
 {% endfor %}
 

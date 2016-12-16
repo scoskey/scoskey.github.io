@@ -56,3 +56,26 @@ h1[itemprop].post-title {
 header.post-header {
   margin-bottom: 0;
 }
+
+/* colors */
+header.site-header {
+  border-top-color: #09347A;
+  border-bottom-color: #F1632A;
+}
+a {
+  color: #09347A;
+}
+a:visited {
+  color: #0169A4;
+}
+.category_name {
+  color: #F1632A;
+}
+
+/* extra menu items */
+.trigger > a[href="/allpresentations"] {
+  display: none;
+}
+.trigger > a[href="/"] {
+  display: none;
+}
