@@ -63,13 +63,13 @@ header.site-header {
   border-bottom-color: #F1632A;
 }
 a {
-  color: #09347A;
-}
-a:visited {
   color: #0169A4;
 }
+a:visited {
+  color: #09347A;
+}
 .category_name {
-  color: #F1632A;
+  font-weight: bold;
 }
 
 /* extra menu items */
