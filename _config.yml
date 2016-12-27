@@ -30,6 +30,7 @@ theme: minima
 # Sam config
 excerpt_separator: <!--more-->
 permalink: /:title
+# should be able to set header_pages
 
 # Sam custom
 slides_base: http://math.boisestate.edu/~scoskey/slides
