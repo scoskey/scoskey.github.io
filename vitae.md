@@ -14,7 +14,7 @@ permalink: /vitae
 Supervised by Ilijas Farah.
 
 **Postdoctoral fellow**  
-*Max Planck Institut for Mathematics*, Summer 2009  
+*Max Planck Institute for Mathematics*, Summer 2009  
 Supervised by Peter Koepke (informally).
 
 **Visiting assistant professor / postdoc**  
