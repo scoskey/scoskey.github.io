@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An examination of the euclidean algorithm
+title: Solving polynomial equations by radicals
 category: senion-thesis
 tags: set-theory
 ---
