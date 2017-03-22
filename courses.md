@@ -4,7 +4,7 @@ title: Courses
 permalink: /courses
 ---
 
-# Current courses
+# Recent courses
 
 {% for post in site.categories.course %}
   {% assign postdate = post.date | date: '%s' %}
@@ -42,7 +42,7 @@ permalink: /courses
   {% endif %}
 {% endfor %}
 
-# Prior to Boise State
+# Prior institutions
 
 {% for post in site.categories.course %}
   {% assign postdate = post.date | date: '%s' %}
