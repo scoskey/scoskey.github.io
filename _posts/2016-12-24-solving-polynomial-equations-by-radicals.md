@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Solving polynomial equations by radicals
-category: senion-thesis
+category: senior-thesis
 tags: set-theory
 ---
 
