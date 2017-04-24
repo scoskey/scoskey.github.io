@@ -6,8 +6,11 @@ permalink: /vitae
 
 # Positions
 
-**Assistant professor**  
-*Boise State University*, 2012&ndash;present
+**Associate professor**, 2017&ndash;present  
+**Assistant professor**, 2012&ndash;2017  
+*Boise State University*
+
+# Preparation
 
 **Fields Ontario postdoctoral fellow**  
 *The Fields Institute and York University*, 2010&ndash;2012  
@@ -21,8 +24,6 @@ Supervised by Peter Koepke (informally).
 *The Graduate Center of The City University of New York*, 2008&ndash;2010  
 Supervised by Joel Hamkins and Roman Kossak (informally).
 
-# Preparation
-
 **Ph.D., Mathematics**  
 *Rutgers, The State University of New Jersey*, 2003&ndash;2008  
 Supervised by Simon Thomas. Doctoral thesis titled *Descriptive aspects of torsion-free abelian groups*.
@@ -34,21 +35,15 @@ Supervised by M. Scott Osborne. Senior thesis titled *Partial universes and the 
 
 # Research interests
 
-set theory; descriptive set theory; Borel complexity theory; combinatorics; applications of ergodic theory to set theory; applications of set theory to algebra, model theory, analysis, topology, infinitary logic, and computability theory
+set theory; descriptive set theory; Borel complexity theory; combinatorics; applications of set theory to algebra, model theory, analysis, topology, infinitary logic, and computability theory
 
-# Teaching styles
+# Teaching and supervision highlights
 
-team learning, inquiry and discovery-based learning, classroom discussion, partially flipped classes
+discovery learning, team learning, reading and writing, REU mentor, master's thesis advisor, senior thesis advisor
 
-# Outreach
+# Service and outreach highlights
 
-**Program director**  
-*Boise Math Circle*, 2014&ndash;present  
-Develop and implement weekly discussions for middle and high school students about an elementary but deep topic in mathematics. Additional mentors include BSU faculty, graduate students, and undergraduate students.
-
-# More about me
-
-I am originally from Seattle. I'm into math and discussing math, from the elementary to the research level. Aside from math, I have been known to juggle, play tennis and aerobie, read novels, and listen to music. I am an advocate of cycling as a means of transportation. Having studied computer science in the past, I enjoy thinking about how modern web tools can help us share and work together on math.
+seminar and conference organizer, course developer, Boise Math Circles codirector, bylaws and policy writing
 
 ![chalkboard]({{ site.img_base }}/yst.jpg)
 
