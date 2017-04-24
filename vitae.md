@@ -8,24 +8,24 @@ permalink: /vitae
 
 **Associate professor**, 2017&ndash;present  
 **Assistant professor**, 2012&ndash;2017  
-*Boise State University*
+*Boise State University*, Boise
 
 # Preparation
 
 **Fields Ontario postdoctoral fellow**  
-*The Fields Institute and York University*, 2010&ndash;2012  
+*The Fields Institute and York University*, Toronto, 2010&ndash;2012  
 Supervised by Ilijas Farah.
 
 **Postdoctoral fellow**  
-*Max Planck Institute for Mathematics*, Summer 2009  
+*The Max Planck Institute for Mathematics*, Bonn, Summer 2009  
 Supervised by Peter Koepke (informally).
 
 **Visiting assistant professor / postdoc**  
-*The Graduate Center of The City University of New York*, 2008&ndash;2010  
+*The CUNY Graduate Center*, New York, 2008&ndash;2010  
 Supervised by Joel Hamkins and Roman Kossak (informally).
 
 **Ph.D., Mathematics**  
-*Rutgers, The State University of New Jersey*, 2003&ndash;2008  
+*Rutgers University*, New Brunswick, 2003&ndash;2008  
 Supervised by Simon Thomas. Doctoral thesis titled *Descriptive aspects of torsion-free abelian groups*.
 
 **B.S., Mathematics**  
