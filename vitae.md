@@ -6,9 +6,9 @@ permalink: /vitae
 
 # Positions
 
-**Associate professor**, 2017&ndash;present  
-**Assistant professor**, 2012&ndash;2017  
-*Boise State University*, Boise
+**Associate professor**  
+**Assistant professor**  
+*Boise State University*, Boise, 2012&ndash;present
 
 # Preparation
 
