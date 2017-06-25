@@ -4,7 +4,7 @@ title: On the classification of vertex-transitive structures
 category: masters-thesis
 tags: classification, vertex-transitive
 ---
-A master's thesis by Stephanie Potter, Spring 2017 (link coming soon)<!--more-->
+A master's thesis by Stephanie Potter, Spring 2017 ([link](http://scholarworks.boisestate.edu/td/1279/))<!--more-->
 
 *Abstract*: When one thinks of objects with a significant level of symmetry it is natural to expect there to be a simple classification. However, this leads to an interesting problem in that research has revealed the existence of highly symmetric objects which are very complex when considered within the framework of Borel complexity. The tension between these two seemingly contradictory notions leads to a wealth of natural questions which have yet to be answered.
 
