@@ -5,4 +5,4 @@ category: publication
 tags: set-theory, review
 ---
 
-Review of the graduate textbook "Invariant descriptive set theory" by Su Gou. *Bulletin of symbolic logic*, 2011. ([preprint]({{ site.docs_base }}/bsl-gao-preprint.pdf) \| [journal](http://dx.doi.org/10.2178/bsl/1305810914))
+Review of the graduate textbook "Invariant descriptive set theory" by Su Gao. *Bulletin of symbolic logic*, 2011. ([preprint]({{ site.docs_base }}/bsl-gao-preprint.pdf) \| [journal](http://dx.doi.org/10.2178/bsl/1305810914))
