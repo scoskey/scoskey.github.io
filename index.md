@@ -28,6 +28,6 @@ scoskey@nylogic.org
 
 # Links
 
-[Boise State University set theory](https://math.boisestate.edu/research/settheory)  
-[Global set theory talk announcements](http://settheory.mathtalks.org)
-
+[Boise State University set theory research](https://math.boisestate.edu/research/settheory)  
+[Set theory talks, worldwide set theory announcements](http://settheory.mathtalks.org)
+[Mathblogging, curated collection of math blogs](https://mathblogging.org)
