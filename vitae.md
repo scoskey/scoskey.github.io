@@ -4,13 +4,11 @@ title: Vitae
 permalink: /vitae
 ---
 
-# Positions
+# Vitae
 
 **Associate professor**  
 **Assistant professor**  
 *Boise State University*, Boise, 2012&ndash;present
-
-# Preparation
 
 **Fields Ontario postdoctoral fellow**  
 *The Fields Institute and York University*, Toronto, 2010&ndash;2012  
@@ -45,6 +43,7 @@ discovery learning, team learning, reading and writing, REU mentor, master's the
 
 seminar and conference organizer, course developer, Boise Math Circles codirector, bylaws and policy co-author
 
-![chalkboard]({{ site.img_base }}/yst.jpg)
 
 ![mathfest]({{ site.img_base }}/mathfest.jpg)
+
+![chalkboard]({{ site.img_base }}/yst.jpg)
