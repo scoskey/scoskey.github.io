@@ -7,8 +7,10 @@ permalink: /vitae
 # Vitae
 
 **Associate professor**  
+*Boise State University*, Boise, 2017&ndash;present
+
 **Assistant professor**  
-*Boise State University*, Boise, 2012&ndash;present
+*Boise State University*, Boise, 2012&ndash;2017
 
 **Fields Ontario postdoctoral fellow**  
 *The Fields Institute and York University*, Toronto, 2010&ndash;2012  
