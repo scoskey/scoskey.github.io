@@ -26,13 +26,21 @@ github_username:  scoskey
 # Build settings
 markdown: kramdown
 theme: minima
+exclude:
+  - Gemfile
+  - Gemfile.lock
 
 # Sam config
 excerpt_separator: <!--more-->
 permalink: /:title
-# should be able to set header_pages
+header_pages:
+  - courses.md
+  - publications.md
+  - presentations.md
+  - students.md
+  - vitae.md
 
-# Sam custom
+# custom vars
 slides_base: http://math.boisestate.edu/~scoskey/slides
 docs_base: http://math.boisestate.edu/~scoskey/docs
 img_base: http://math.boisestate.edu/~scoskey/img
