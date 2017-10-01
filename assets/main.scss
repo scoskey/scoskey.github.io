@@ -72,6 +72,9 @@ a:visited {
 }
 
 /* extra menu items */
+.trigger > a[href="/allcourses"] {
+  display: none;
+}
 .trigger > a[href="/allpresentations"] {
   display: none;
 }

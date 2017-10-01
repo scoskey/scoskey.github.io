@@ -1,5 +1,6 @@
 ---
 layout: page
+title: All presenetationss
 permalink: /allpresentations
 ---
 # All presentations
