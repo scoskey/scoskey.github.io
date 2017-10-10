@@ -3,7 +3,6 @@ layout: post
 title: On the classification of torsion-free abelian groups up to isomorphism and quasi-isomorphism
 category: presentation
 tags: superrigidity, tfas
-selected: true
 ---
 
 Joint mathematics meetings, San Diego, January 2008 ([slides]({{ site.slides_base }}/quasi-jmm-slides.pdf))<!--more-->

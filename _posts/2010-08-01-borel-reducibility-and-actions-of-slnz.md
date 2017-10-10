@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Borel reducibility and actions of $SL_n(\mathbb Z)$
+title: Borel reducibility and actions of SLn(Z)
 category: presentation
 tags: superrigidity
 ---

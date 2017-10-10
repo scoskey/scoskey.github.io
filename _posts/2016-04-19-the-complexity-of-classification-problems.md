@@ -3,7 +3,6 @@ layout: post
 title: The complexity of classification problems
 category: presentation
 tags: classifiaction
-selected: true
 ---
 Mathematics department colloquium, Boise State University, April 2016 ([slides]({{ site.slides_base }}/colloq-slides.pdf))<!--more-->
 
