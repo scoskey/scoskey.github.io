@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<img style="float:right;margin-left:10px" src="{{ site.baseurl }}/assets/dogsquaresmall.jpg" alt="dog icon" />
+<img style="float:right;margin-left:10px" src="{{ site.baseurl }}/assets/dogsquaresmall.png" alt="dog icon" />
 
 Department of Mathematics  
 Boise State University  

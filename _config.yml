@@ -1,23 +1,19 @@
 title: Samuel Coskey
 email: scoskey@nylogic.org
-description: > # this means to ignore newlines until "baseurl:"
+github_username: scoskey
+description: >
   Department of Mathematics, Boise State University, 1910 University Dr,
   Boise, ID 83725-1555.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://scoskey.github.io" # the base hostname & protocol for your site
-#twitter_username: jekyllrb
-github_username:  scoskey
-
-# Build settings
+url: "https://scoskey.github.io"
+baseurl: ""
+permalink: /:title
 markdown: kramdown
 theme: minima
-exclude:
-  - Gemfile
-  - Gemfile.lock
-
-# Sam config
+plugins:
+  - jekyll-feed
 excerpt_separator: <!--more-->
-permalink: /:title
+
+# main menu
 header_pages:
   - courses.md
   - publications.md
