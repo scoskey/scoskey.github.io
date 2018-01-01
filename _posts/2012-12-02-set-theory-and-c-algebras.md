@@ -2,7 +2,7 @@
 layout: post
 title: Set theory and C*-algebras
 category: presentation
-tags: c*-algebras, analysis
+tags: c*-algebras analysis
 ---
 
 Boise Set Theory Seminar, December 3, 2012<!--more-->

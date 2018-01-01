@@ -2,7 +2,7 @@
 layout: post
 title: Countable Borel equivalence relations
 category: presentation
-tags: superrigidity, tfas
+tags: superrigidity tfas
 ---
 
 Bonn Logische Oberseminar, May 2009<!--more-->

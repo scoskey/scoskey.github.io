@@ -2,7 +2,7 @@
 layout: post
 title: On the classification of torsion-free abelian groups
 category: presentation
-tags: superrigidity, tfas
+tags: superrigidity tfas
 ---
 
 CUNY Logic Workshop, November 2007<!--more-->

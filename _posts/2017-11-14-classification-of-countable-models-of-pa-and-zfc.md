@@ -2,7 +2,7 @@
 layout: post
 title: Classification of countable models of PA and ZFC
 category: presentation
-tags: classification, pa
+tags: classification pa
 ---
 Boise Set Theory Seminar, November 2017<!--more-->
 

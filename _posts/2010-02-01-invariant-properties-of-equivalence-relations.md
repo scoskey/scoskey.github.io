@@ -2,7 +2,7 @@
 layout: post
 title: Invariant properties of equivalence relations
 category: presentation
-tags: hyperfinite, cardinal-characteristics
+tags: hyperfinite cardinal-characteristics
 ---
 
 CUNY Logic Workshop, February 2010<!--more-->

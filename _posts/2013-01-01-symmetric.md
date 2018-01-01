@@ -3,7 +3,7 @@ layout: post
 title: The fundamental theorem on symmetric polynomials
 permalink: /symmetric
 category: publication
-tags: galois, algebra
+tags: galois algebra
 ---
 
 History's first whiff of Galois theory.  With Ben Blum-Smith. *College mathematics journal*, 2017. ([ar&chi;iv](http://arxiv.org/abs/1301.7116) \| [journal](http://dx.doi.org/10.4169/college.math.j.48.1.18))<!--more-->

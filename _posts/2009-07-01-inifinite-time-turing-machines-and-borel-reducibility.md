@@ -2,7 +2,7 @@
 layout: post
 title: Inifinite-time Turing machines and Borel reducibility
 category: presentation
-tags: computability, ittm
+tags: computability ittm
 ---
 
 Computability in Europe, July 2009 ([extended abstract]({{ site.docs_base }}/ittm-extabstract.pdf))<!--more-->

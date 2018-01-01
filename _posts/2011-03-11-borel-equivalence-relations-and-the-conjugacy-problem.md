@@ -2,7 +2,7 @@
 layout: post
 title: Borel equivalence relations and the conjugacy problem
 category: presentation
-tags: conjugacy, classification
+tags: conjugacy classification
 ---
 
 Young Set Theory Workshop, Königswinter, March 2011<!--more-->

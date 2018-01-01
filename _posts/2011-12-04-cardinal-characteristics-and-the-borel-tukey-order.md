@@ -2,7 +2,7 @@
 layout: post
 title: Cardinal characteristics and the Borel Tukey order
 category: presentation
-tags: tukey, cardinal-characteristics
+tags: tukey cardinal-characteristics
 selected: true
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: The Borel Tukey order on cardinal characteristics
 category: presentation
-tags: tukey, cardinal-characteristics
+tags: tukey cardinal-characteristics
 ---
 
 CUNY Logic Workshop, November 4, 2011<!--more-->

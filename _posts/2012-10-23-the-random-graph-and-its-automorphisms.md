@@ -2,7 +2,7 @@
 layout: post
 title: The random graph and its automorphisms
 category: presentation
-tags: conjugacy, random-graph, homogeneous, classification
+tags: conjugacy random-graph homogeneous classification
 ---
 
 Boise Algebra, Geometry and Combinatorics seminar, October 23, 2012<!--more-->

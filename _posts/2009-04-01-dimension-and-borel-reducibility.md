@@ -2,7 +2,7 @@
 layout: post
 title: Dimension and Borel reducibility
 category: presentation
-tags: superrigidity, tfas
+tags: superrigidity tfas
 ---
 
 CUNY Logic Workshop, April 2009<!--more-->

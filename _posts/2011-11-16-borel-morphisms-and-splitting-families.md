@@ -2,7 +2,7 @@
 layout: post
 title: Borel morphisms and splitting families
 category: presentation
-tags: tukey, splitting
+tags: tukey splitting
 selected: true
 ---
 
