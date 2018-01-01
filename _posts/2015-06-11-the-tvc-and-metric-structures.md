@@ -4,7 +4,7 @@ title: The TVC and metric structures
 date: 2015-06-11 22:50:07.000000000 -06:00
 category: presentation
 selected: true
-tags: lopez-escobar, metric-structures, vaught
+tags: lopez-escobar metric-structures vaught
 ---
 
 Second Vaught's conjecture workshop, Berkeley, June 2015 ([slides]({{ site.slides_base }}/lopez-escobar-slides.pdf))<!--more-->

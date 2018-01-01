@@ -2,7 +2,7 @@
 layout: post
 title: Amalgamation properties and conjugacy
 category: presentation
-tags: conjugacy, fraisse
+tags: conjugacy fraisse
 ---
 
 Boise Set Theory Seminar, Wednesday September 2, 2015<!--more-->

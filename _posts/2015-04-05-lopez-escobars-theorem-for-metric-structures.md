@@ -2,7 +2,7 @@
 layout: post
 title: López-Escobar's theorem for metric structures
 category: presentation
-tags: lopez-escobar, metric-structures
+tags: lopez-escobar metric-structures
 ---
 
 Boise Set Theory Seminar, April 8 from 3 to 4pm<!--more--><

@@ -2,7 +2,7 @@
 layout: post
 title: Conjugacy and homogeneous graphs
 category: presentation
-tags: conjugacy, homogeneous
+tags: conjugacy homogeneous
 ---
 
 Boise Set Theory Seminar, September 3, 2014<!--more-->

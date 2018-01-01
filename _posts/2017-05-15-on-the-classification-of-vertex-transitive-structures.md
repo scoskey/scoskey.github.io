@@ -2,7 +2,7 @@
 layout: post
 title: On the classification of vertex-transitive structures
 category: masters-thesis
-tags: classification, vertex-transitive
+tags: classification vertex-transitive
 ---
 A master's thesis by Stephanie Potter, Spring 2017 ([link](http://scholarworks.boisestate.edu/td/1279/))<!--more-->
 

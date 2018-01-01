@@ -3,7 +3,7 @@ layout: post
 title: A López-Escobar theorem for metric structures, and the topological Vaught conjecture
 permalink: /lopez-escobar
 category: publication
-tags: lopez-escobar, metric-structures, vaught
+tags: lopez-escobar metric-structures vaught
 ---
 
 With Martino Lupini. *Fundamenta mathematicae*, 2016. ([ar&chi;iv](http://arxiv.org/abs/1405.2859) \| [journal](http://dx.doi.org/10.4064/fm135-1-2016))<!--more-->

@@ -2,7 +2,7 @@
 layout: post
 title: Classifying automorphisms of countable trees
 category: presentation
-tags: classification, conjugacy, trees
+tags: classification conjugacy trees
 ---
 Boise Set Theory Seminar, September 2016<!--more-->
 

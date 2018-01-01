@@ -2,7 +2,7 @@
 layout: post
 title: López-Escobar's theorem
 category: presentation
-tags: lopez-escobar, metric-structures
+tags: lopez-escobar metric-structures
 ---
 
 Boise Set Theory Seminar, April 2016<!--more--><

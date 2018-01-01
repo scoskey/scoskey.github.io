@@ -2,7 +2,7 @@
 layout: post
 title: Splitting relations
 category: presentation
-tags: tukey, splitting
+tags: tukey splitting
 ---
 
 Boise Set Theory Seminar, September 30, 2013<!--more-->

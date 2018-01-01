@@ -2,7 +2,7 @@
 layout: post
 title: Countable abelian groups and conjugacy relations
 category: presentation
-tags: conjugacy, tfas
+tags: conjugacy tfas
 ---
 
 Boise Set Theory Seminar, December 9, 2013.<!--more-->

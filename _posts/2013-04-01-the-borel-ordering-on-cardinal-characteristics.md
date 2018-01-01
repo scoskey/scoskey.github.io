@@ -2,7 +2,7 @@
 layout: post
 title: The Borel ordering on cardinal characteristics
 category: presentation
-tags: tukey, cardinal-characteristics
+tags: tukey cardinal-characteristics
 ---
 
 Boise Set Theory Seminar, April 4, 2013<!--more-->

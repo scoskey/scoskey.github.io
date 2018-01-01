@@ -3,7 +3,7 @@ layout: post
 title: The conjugacy problem for automorphism groups of countable homogeneous structures
 permalink: /conjugacy
 category: publication
-tags: conjugacy, homogeneous, classification
+tags: conjugacy homogeneous classification
 ---
 
 With Paul Ellis. *Mathematical logic quarterly*, 2016. ([ar&chi;iv](https://arxiv.org/abs/1406.6411) \| [journal](https://dx.doi.org/10.1002/malq.201500004))<!--more-->
