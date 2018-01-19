@@ -5,7 +5,7 @@ category: presentation
 tags: tukey cardinal-characteristics
 ---
 
-CUNY Logic Workshop, November 4, 2011<!--more-->
+CUNY Logic Workshop, November 2011<!--more-->
 
 *Description*: The talk is loosely about the so-called *cardinal invariants of the continuum*. This particular story begins with Vojtáš, who, in addition to having several strange accents in his name, realized that many cardinal invariants admit a natural definition of the form:
 

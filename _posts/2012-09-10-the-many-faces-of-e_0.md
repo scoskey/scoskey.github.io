@@ -5,7 +5,7 @@ category: presentation
 tags: hyperfinite
 ---
 
-Boise Set Theory Seminar, September 10, 2012 ([notes]({{ site.docs_base }}/e0-notes.pdf))<!--more-->
+Boise Set Theory Seminar, September 2012 ([notes]({{ site.docs_base }}/e0-notes.pdf))<!--more-->
 
 *Abstract*: This talk will be a discussion of several occurrences of the equivalence relation $E_0$ in mathematics. The first occurrence is in a logic puzzle about guessing the color of your hat.  If this sounds all too familiar, well, there are many such puzzles.  This version is an infinitary one, and was first considered by Lubarsky and Geschke.  You can also find an awesome post about the problem by Richard Elwes [here](http://richardelwes.co.uk/2012/05/31/a-hat-game-1/). (Thanks Andres!)
 
