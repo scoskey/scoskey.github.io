@@ -10,7 +10,7 @@ Boise State University
 Boise, ID 83725-1555  
 
 Room 237-A  
-scoskey@nylogic.org
+{{ site.email }}
 
 <div style="clear:both"></div>
 

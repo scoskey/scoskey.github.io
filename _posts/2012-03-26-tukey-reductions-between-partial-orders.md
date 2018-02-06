@@ -5,7 +5,7 @@ category: presentation
 tags: tukey
 ---
 
-Student Set Theory and Topology Seminar, Toronto, March 29, 2012<!--more-->
+Student Set Theory and Topology Seminar, Toronto, March 2012<!--more-->
 
 *Abstract*: There are many reasons to study Tukey reductions.  For instance, many important cardinal invariants can be realized as the cofinality of a partial order.  And here, a Tukey reduction between the partial orders corresponds to an inequality between the cardinal invariants.
 

@@ -5,7 +5,7 @@ category: presentation
 tags: tukey splitting
 ---
 
-Boise Set Theory Seminar, September 30, 2013<!--more-->
+Boise Set Theory Seminar, September 2013<!--more-->
 
 *Absract*: Presenting joint work with Juris Steprāns.  This talk is complementary to the earlier talk [here]({{ site.baseurl }}/the-borel-ordering-on-cardinal-characteristics).
 
