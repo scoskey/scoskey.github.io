@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Touching infinity - hyperbinary numbers and fraction trees
+title: Hyperbinary numbers and fraction trees
 permalink: /calkin-wilf
 category: publication
 tags: calkin-wilf
