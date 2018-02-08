@@ -4,7 +4,7 @@ github_username: scoskey
 description: >
   Department of Mathematics, Boise State University, 1910 University Dr,
   Boise, ID 83725-1555.
-url: "https://scoskey.github.io"
+url: "http://scoskey.org"
 baseurl: ""
 permalink: /:title
 markdown: kramdown
