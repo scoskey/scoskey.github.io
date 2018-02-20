@@ -28,7 +28,7 @@ Room 237-A
 
 # Links
 
-[Boise State University set theory research](https://math.boisestate.edu/research/settheory)  
-[Set theory talks, worldwide set theory announcements](http://settheory.mathtalks.org)  
-[Mathblogging, curated collection of math blogs](https://mathblogging.org)
-[Boise math circles, math for secondary students](http://boisemathcircles.org)
+[Set theory research](https://math.boisestate.edu/research/settheory) in the BSU math department  
+[Set theory talks](http://settheory.mathtalks.org) worldwide set theory announcements  
+[Mathblogging.org](https://mathblogging.org) curated collection of math blogs  
+[Boise math circles](http://boisemathcircles.org) math for secondary students
