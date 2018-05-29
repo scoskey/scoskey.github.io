@@ -9,7 +9,7 @@ Boise State University
 1910 University Dr  
 Boise, ID 83725-1555  
 
-Room 237-A  
+Room 238-B  
 {{ site.email }}
 
 <div style="clear:both"></div>
