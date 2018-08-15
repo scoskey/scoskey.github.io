@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The hierarchy of equivalence relations on the natural numbers under computable reducibility
 permalink: /compequiv
 category: publication

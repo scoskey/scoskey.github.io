@@ -1,5 +1,4 @@
 ---
-layout: post
 title: An examination of the euclidean algorithm
 category: senior-thesis
 tags: set-theory

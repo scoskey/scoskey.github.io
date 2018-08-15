@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Martin's axiom and some applications
 category: presentation
 tags: set-theory

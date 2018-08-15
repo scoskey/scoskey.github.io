@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Next BEST coming up
 category: announcement
 ---

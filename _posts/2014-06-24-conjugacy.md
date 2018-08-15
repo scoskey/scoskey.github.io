@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The conjugacy problem for automorphism groups of countable homogeneous structures
 permalink: /conjugacy
 category: publication

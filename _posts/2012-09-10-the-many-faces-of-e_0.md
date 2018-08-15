@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The many faces of E_0
 category: presentation
 tags: hyperfinite

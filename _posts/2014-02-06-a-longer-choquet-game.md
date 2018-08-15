@@ -1,5 +1,4 @@
 ---
-layout: post
 title: A longer Choquet game
 category: presentation
 tags: choquet

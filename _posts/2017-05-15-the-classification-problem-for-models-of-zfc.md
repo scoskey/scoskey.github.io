@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The classification problem for models of set theory
 category: masters-thesis
 tags: classification zfc

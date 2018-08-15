@@ -1,5 +1,4 @@
 ---
-layout: post
 title: On the set splittability problem
 category: presentation
 tags: splitting

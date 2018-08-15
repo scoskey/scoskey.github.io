@@ -1,5 +1,4 @@
 ---
-layout: post
 title: There is now a set theory community on google plus
 category: announcement
 tags: set-theory

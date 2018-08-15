@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Borel complexity theory and classification problems
 category: presentation
 tags: classification

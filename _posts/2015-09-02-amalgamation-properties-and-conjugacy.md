@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Amalgamation properties and conjugacy
 category: presentation
 tags: conjugacy fraisse

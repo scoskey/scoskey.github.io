@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Equivalence relations and infinite-time computable reductions
 category: presentation
 tags: ittm

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: On the classification of vertex-transitive structures
 category: masters-thesis
 tags: classification vertex-transitive

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Countable abelian groups and conjugacy relations
 category: presentation
 tags: conjugacy tfas

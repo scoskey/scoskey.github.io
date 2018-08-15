@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Some countable Borel equivalence relations
 category: presentation
 tags: tfas

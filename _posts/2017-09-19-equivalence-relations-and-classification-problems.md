@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Equivalence relations and classification problems, parts 1 and 2
 category: presentation
 tags: classification

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Classification of scattered linear orders
 category: presentation
 tags: scattered

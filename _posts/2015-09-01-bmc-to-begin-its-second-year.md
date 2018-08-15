@@ -1,5 +1,4 @@
 ---
-layout: post
 title: BMC to begin its second year
 category: announcment
 tags: bmc

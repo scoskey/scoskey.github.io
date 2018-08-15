@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Conjugacy and homogeneous graphs
 category: presentation
 tags: conjugacy homogeneous

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Classification of countable models of PA and ZFC
 category: presentation
 tags: classification pa

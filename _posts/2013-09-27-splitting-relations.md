@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Splitting relations
 category: presentation
 tags: tukey splitting

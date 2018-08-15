@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The TVC and metric structures
 date: 2015-06-11 22:50:07.000000000 -06:00
 category: presentation

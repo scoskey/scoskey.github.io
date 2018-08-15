@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Classification problems for models of arithmetic
 category: presentation
 tags: arithmetic

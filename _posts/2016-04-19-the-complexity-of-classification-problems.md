@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The complexity of classification problems
 category: presentation
 tags: classifiaction

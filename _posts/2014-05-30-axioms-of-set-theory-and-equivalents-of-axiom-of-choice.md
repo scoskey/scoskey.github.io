@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Axioms of set theory and equivalents of axiom of choice
 category: senion-thesis
 tags: set-theory

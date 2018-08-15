@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Borel morphisms and splitting families
 category: presentation
 tags: tukey splitting

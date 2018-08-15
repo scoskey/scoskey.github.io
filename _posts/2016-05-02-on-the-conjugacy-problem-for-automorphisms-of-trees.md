@@ -1,5 +1,4 @@
 ---
-layout: post
 title: On the conjugacy problem for automorphisms of trees
 category: masters-thesis
 tags: conjugacy trees

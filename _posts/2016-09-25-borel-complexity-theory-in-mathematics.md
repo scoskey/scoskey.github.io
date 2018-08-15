@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Borel complexity theory in mathematics
 category: presentation
 tags: classification

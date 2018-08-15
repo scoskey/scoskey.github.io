@@ -1,5 +1,4 @@
 ---
-layout: post
 title: On the classification of torsion-free abelian groups
 category: presentation
 tags: superrigidity tfas

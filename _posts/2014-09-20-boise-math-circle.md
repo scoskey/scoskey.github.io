@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Boise math circle
 category: announcement
 tags: bmc

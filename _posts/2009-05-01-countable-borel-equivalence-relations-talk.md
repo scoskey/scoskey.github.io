@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Countable Borel equivalence relations
 category: presentation
 tags: superrigidity tfas

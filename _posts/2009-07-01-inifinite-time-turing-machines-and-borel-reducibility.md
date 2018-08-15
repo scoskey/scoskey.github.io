@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Inifinite-time Turing machines and Borel reducibility
 category: presentation
 tags: computability ittm

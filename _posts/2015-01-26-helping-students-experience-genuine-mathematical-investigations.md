@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Helping students experience genuine mathematical investigations
 category: presentation
 tags: pedagogy

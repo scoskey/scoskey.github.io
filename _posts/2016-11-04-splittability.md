@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The set splittability problem
 permalink: /splittability
 category: publication

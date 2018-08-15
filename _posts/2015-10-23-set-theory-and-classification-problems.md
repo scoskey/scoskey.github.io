@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Set theory and classification problems
 category: presentation
 tags: classification

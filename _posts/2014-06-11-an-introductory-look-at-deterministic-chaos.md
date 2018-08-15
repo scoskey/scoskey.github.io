@@ -1,5 +1,4 @@
 ---
-layout: post
 title: An introductory look at deterministic chaos
 category: senior-thesis
 tags: chaos

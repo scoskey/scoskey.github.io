@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The Borel ordering on cardinal characteristics
 category: presentation
 tags: tukey cardinal-characteristics

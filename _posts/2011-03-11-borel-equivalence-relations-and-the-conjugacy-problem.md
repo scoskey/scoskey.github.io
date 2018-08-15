@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Borel equivalence relations and the conjugacy problem
 category: presentation
 tags: conjugacy classification

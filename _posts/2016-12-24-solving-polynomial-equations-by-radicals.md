@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Solving polynomial equations by radicals
 category: senior-thesis
 tags: set-theory

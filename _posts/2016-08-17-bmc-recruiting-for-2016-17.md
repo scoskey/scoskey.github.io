@@ -1,5 +1,4 @@
 ---
-layout: post
 title: BMC recruiting for 2016–17
 category: announcement
 tags: bmc
