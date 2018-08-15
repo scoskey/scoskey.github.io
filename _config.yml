@@ -6,7 +6,7 @@ description: >
   Boise, ID 83725-1555.
 url: "http://scoskey.org"
 baseurl: ""
-permalink: /:title
+permalink: /:categories/:title/
 markdown: kramdown
 theme: minima
 plugins:
@@ -20,6 +20,13 @@ header_pages:
   - presentations.md
   - students.md
   - vitae.md
+
+defaults: 
+  - scope: 
+      path: ""
+      type: "posts"
+    values:
+      layout: post
 
 # custom vars
 slides_base: http://math.boisestate.edu/~scoskey/slides
