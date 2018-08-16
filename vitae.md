@@ -35,13 +35,13 @@ Supervised by M. Scott Osborne. Senior thesis titled *Partial universes and the 
 
 # Research interests
 
-set theory; Borel complexity theory; applications of set theory to algebra, analysis, and logic; combinatorics
+set theory including Borel complexity theory and its applications to algebra/analysis/logic; combinatorics
 
-# Teaching and supervision highlights
+# Teaching and supervision
 
 discovery learning; team learning; reading, writing, speaking in discipline; REU mentor; master's and senior thesis advisor
 
-# Service and outreach highlights
+# Service and outreach
 
 seminar and conference organizer; Boise Math Circles codirector; course developer; policy coauthor
 
