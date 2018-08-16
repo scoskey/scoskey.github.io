@@ -1,6 +1,5 @@
 ---
 title: López-Escobar's theorem and metric structures
-category: presentation
 tags: lopez-escobar metric-structures
 selected: true
 ---

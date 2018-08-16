@@ -1,6 +1,5 @@
 ---
 title: A panel on mathematics and social justice
-category: announcement
 tags: social-justice
 ---
 

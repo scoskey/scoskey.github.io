@@ -1,6 +1,5 @@
 ---
 title: Classification of scattered linear orders
-category: presentation
 tags: scattered
 ---
 Boise Set Theory Seminar, March 2018<!--more-->

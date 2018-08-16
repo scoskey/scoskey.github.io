@@ -1,6 +1,5 @@
 ---
 title: On the conjugacy problem for automorphisms of trees
-category: masters-thesis
 tags: conjugacy trees
 ---
 A master's thesis by Kyle Beserra, Spring 2016 ([link](http://scholarworks.boisestate.edu/td/1083/))<!--more-->

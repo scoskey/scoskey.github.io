@@ -1,6 +1,5 @@
 ---
 title: Tukey maps between partial orders
-category: presentation
 tags: tukey
 ---
 

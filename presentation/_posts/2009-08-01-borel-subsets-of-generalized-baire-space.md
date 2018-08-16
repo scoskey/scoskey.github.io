@@ -1,6 +1,5 @@
 ---
 title: Borel subsets of generalized Baire space
-category: presentation
 tags: topology
 ---
 

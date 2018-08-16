@@ -1,6 +1,5 @@
 ---
 title: Set theory and C*-algebras
-category: presentation
 tags: c*-algebras analysis
 ---
 

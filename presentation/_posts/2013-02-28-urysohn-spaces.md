@@ -1,6 +1,5 @@
 ---
 title: Urysohn spaces
-category: presentation
 tags: urysohn
 ---
 

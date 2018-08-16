@@ -1,6 +1,5 @@
 ---
 title: The random graph and its automorphisms
-category: presentation
 tags: conjugacy random-graph homogeneous classification
 ---
 

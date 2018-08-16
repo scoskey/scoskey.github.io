@@ -1,6 +1,5 @@
 ---
 title: Generalized Choquet spaces
-category: presentation
 tags: choquet
 selected: true
 ---

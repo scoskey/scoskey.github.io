@@ -1,6 +1,5 @@
 ---
 title: The classification problem for models of set theory
-category: masters-thesis
 tags: classification zfc
 ---
 A master's thesis by Samuel Dworetzky, Spring 2017 ([link](http://scholarworks.boisestate.edu/td/1253/))<!--more-->

@@ -1,6 +1,5 @@
 ---
 title: The Borel Tukey order on cardinal characteristics
-category: presentation
 tags: tukey cardinal-characteristics
 ---
 

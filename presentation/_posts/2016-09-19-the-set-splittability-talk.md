@@ -1,6 +1,5 @@
 ---
 title: On the set splittability problem
-category: presentation
 tags: splitting
 ---
 A talk for the Boise math department's Algebra, Geometry and Cryptography seminar, September 2016<!--more-->

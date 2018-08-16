@@ -1,6 +1,5 @@
 ---
 title: BMC to begin its second year
-category: announcement
 tags: bmc
 ---
 

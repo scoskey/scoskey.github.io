@@ -1,6 +1,5 @@
 ---
 title: Introduction to continuous logic
-category: presentation
 tags: metric-structures
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Invariant properties of equivalence relations
-category: presentation
 tags: hyperfinite cardinal-characteristics
 ---
 

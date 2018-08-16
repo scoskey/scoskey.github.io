@@ -1,7 +1,6 @@
 ---
 title: On the classification of vertex-transitive structures
 permalink: /vertex-transitive
-category: publication
 tags: classification
 ---
 

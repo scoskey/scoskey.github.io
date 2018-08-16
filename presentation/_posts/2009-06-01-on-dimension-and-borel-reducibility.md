@@ -1,6 +1,5 @@
 ---
 title: On dimension and Borel reducibility
-category: presentation
 tags: superrigidity tfas
 selected: true
 ---

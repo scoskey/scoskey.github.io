@@ -1,6 +1,5 @@
 ---
 title: Equivalence relations and classification problems, parts 1 and 2
-category: presentation
 tags: classification
 ---
 Boise Set Theory Seminar, September 2017<!--more-->

@@ -1,6 +1,5 @@
 ---
 title: Boise Math Teachers' Circle
-category: announcement
 tags: bmc
 ---
 

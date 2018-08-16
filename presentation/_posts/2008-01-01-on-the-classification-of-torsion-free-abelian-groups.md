@@ -1,6 +1,5 @@
 ---
 title: On the classification of torsion-free abelian groups up to isomorphism and quasi-isomorphism
-category: presentation
 tags: superrigidity tfas
 ---
 

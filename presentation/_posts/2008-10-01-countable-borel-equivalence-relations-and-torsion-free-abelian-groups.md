@@ -1,6 +1,5 @@
 ---
 title: Countable Borel equivalence relations and torsion-free abelian groups
-category: presentation
 selected: true
 ---
 

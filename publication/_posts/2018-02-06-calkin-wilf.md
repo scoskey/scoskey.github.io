@@ -1,7 +1,6 @@
 ---
 title: Hyperbinary numbers and fraction trees
 permalink: /calkin-wilf
-category: publication
 tags: calkin-wilf
 ---
 

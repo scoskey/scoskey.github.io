@@ -1,6 +1,5 @@
 ---
 title: Axioms of set theory and equivalents of axiom of choice
-category: senior-thesis
 tags: set-theory
 ---
 

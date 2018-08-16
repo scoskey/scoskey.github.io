@@ -1,6 +1,5 @@
 ---
 title: Martin's axiom and some applications
-category: presentation
 tags: set-theory
 ---
 Boise Set Theory Seminar, January 2018<!--more-->

@@ -1,6 +1,5 @@
 ---
 title: Review of Invariant descriptive set theory
-category: publication
 tags: set-theory review
 ---
 

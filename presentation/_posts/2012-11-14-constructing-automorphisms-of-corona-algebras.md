@@ -1,6 +1,5 @@
 ---
 title: Constructing automorphisms of corona algebras
-category: presentation
 tags: c*-algebras analysis
 selected: true
 ---

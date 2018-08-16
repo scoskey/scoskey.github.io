@@ -1,6 +1,5 @@
 ---
 title: Two articles on the classification of C* algebras
-category: publication
 tags: c*-algebras review
 ---
 

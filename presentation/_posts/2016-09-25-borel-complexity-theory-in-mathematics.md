@@ -1,6 +1,5 @@
 ---
 title: Borel complexity theory in mathematics
-category: presentation
 tags: classification
 ---
 A talk for the BSU math graduate seminar, September 2016<!--more-->

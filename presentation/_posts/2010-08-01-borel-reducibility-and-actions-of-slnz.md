@@ -1,6 +1,5 @@
 ---
 title: Borel reducibility and actions of SLn(Z)
-category: presentation
 tags: superrigidity
 ---
 

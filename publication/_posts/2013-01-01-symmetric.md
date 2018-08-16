@@ -1,7 +1,6 @@
 ---
 title: The fundamental theorem on symmetric polynomials
 permalink: /symmetric
-category: publication
 tags: galois algebra
 ---
 

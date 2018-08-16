@@ -1,6 +1,5 @@
 ---
 title: Set theory and classification problems
-category: presentation
 tags: classification
 ---
 A talk for the Boise math graduate student seminar, October 2015 ([notes]({{ site.docs_base }}/classification-notes.pdf))<!--more-->

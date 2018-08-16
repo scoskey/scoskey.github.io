@@ -1,6 +1,5 @@
 ---
 title: BMC recruiting for 2016–17
-category: announcement
 tags: bmc
 ---
 The Boise Math Circle is for local middle and high school students looking to connect with with the creative side of mathematics. Check out our web site at [boisemathcircles.org](http://boisemathcircles.org)!<!--more-->

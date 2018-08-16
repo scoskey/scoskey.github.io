@@ -1,6 +1,5 @@
 ---
 title: Next BEST coming up
-category: announcement
 ---
 
 The BEST conference (Boise Extravaganza in Set Theory) will be held this Summer at UC Riverside on June 18--20. ([conference site](http://math.boisestate.edu/~best/))<!--more-->

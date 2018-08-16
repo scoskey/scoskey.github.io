@@ -1,6 +1,5 @@
 ---
 title: Borel complexity theory and classification problems
-category: presentation
 tags: classification
 selected: true
 ---
