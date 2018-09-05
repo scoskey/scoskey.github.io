@@ -1,6 +1,6 @@
 ---
 title: An examination of the euclidean algorithm
-tags: set-theory
+tags: euclidean
 ---
 
 A senior thesis by Ethan Stieha, Fall 2016<!--more-->

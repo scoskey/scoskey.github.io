@@ -1,6 +1,6 @@
 ---
 title: Solving polynomial equations by radicals
-tags: set-theory
+tags: algebra polynomials
 ---
 
 A senior thesis by Mack Fox, Fall 2016<!--more-->
