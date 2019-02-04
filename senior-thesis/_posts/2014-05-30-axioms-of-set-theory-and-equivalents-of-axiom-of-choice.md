@@ -1,9 +1,10 @@
 ---
 title: Axioms of set theory and equivalents of axiom of choice
 tags: set-theory
+siteurl: https://scholarworks.boisestate.edu/math_undergraduate_theses/1/
 ---
 
-A senior thesis by Farighon Abdul Rahim, Spring 2014 ([link](http://scholarworks.boisestate.edu/math_undergraduate_theses/1/))<!--more-->
+A senior thesis by Farighon Abdul Rahim, Spring 2014<!--more-->
 
 *Abstract*: Sets are all around us. A bag of potato chips, for instance, is a set containing certain number of individual chip's that are its elements. University is another example of a set with students as its elements. By elements, we mean members. But sets should not be confused as to what they really are. A daughter of a blacksmith is an element of a set that contains her mother, father, and her siblings. Then this set is an element of a set that contains all the other families that live in the nearby town. So a set itself can be an element of a bigger set.
 

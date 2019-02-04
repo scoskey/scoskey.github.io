@@ -3,6 +3,7 @@ layout: page
 title: Courses
 permalink: /courses
 ---
+
 # Recent courses
 
 {% for post in site.categories.course %}
@@ -10,7 +11,7 @@ permalink: /courses
   {% assign lower = "August 1, 2015" | date: '%s' %}
   {% if postdate >= lower %}
 
-[{{ post.title }}]({{ post.url }}) {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
+[{{ post.title }}]({% if post.siteurl %}{{ post.siteurl }}{% else %}{{ post.url }}{% endif %}) {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
 
   {% endif %}
 {% endfor %}

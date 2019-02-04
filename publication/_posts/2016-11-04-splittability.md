@@ -2,9 +2,10 @@
 title: The set splittability problem
 permalink: /splittability
 tags: splitting
+siteurl: https://arxiv.org/abs/1611.01542
 ---
 
-With P. Bernstein, C. Bortner, S. Li, and C. Simpson. (<a href="https://arxiv.org/abs/1611.01542">ar&chi;iv</a>)<!--more-->
+With P. Bernstein, C. Bortner, S. Li, and C. Simpson.<!--more-->
 
 *Abstract*: The set splittability problem is the following: given a finite collection of finite sets, does there exits a single set that selects half the elements from each set in the collection? (If a set has odd size, we allow the floor or ceiling.) It is natural to study the set splittability problem in the context of combinatorial discrepancy theory and its applications, since a collection is splittable if and only if it has discrepancy $\leq1$.
 

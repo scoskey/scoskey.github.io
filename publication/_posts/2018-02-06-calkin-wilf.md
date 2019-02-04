@@ -2,9 +2,10 @@
 title: Hyperbinary numbers and fraction trees
 permalink: /calkin-wilf
 tags: calkin-wilf
+siteurl: https://www.mathteacherscircle.org/news/mtc-magazine/s2018/touching-infinity/
 ---
 
-With Paul Ellis and Japheth Wood. ([article](https://www.mathteacherscircle.org/news/mtc-magazine/s2018/touching-infinity/))<!--more-->
+With Paul Ellis and Japheth Wood.<!--more-->
 
 *Abstract*: Questions about infinity are fascinating, and can lead into deep mathematical topics in set theory. The mathematics of infinite sets wasn’t clearly understood until Cantor defined cardinal numbers in the late 19th century, stating that two sets are the same size if there is a one-to-one correspondence between them. One surprising result from set theory, first proved by Cantor in 1873, is that there are precisely as many rational numbers (fractions) as there are counting numbers. Over one hundred years later, mathematicians Neil Calkin and Herbert S. Wilf published a more elegant proof of this fact.
 

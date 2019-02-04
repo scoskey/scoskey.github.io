@@ -18,7 +18,7 @@ Room 238-B
 
 {% for post in site.posts limit: 6 %}
 
-[{{ post.title }}]({{ post.url }})  
+[{{ post.title }}]({% if post.siteurl %}{{ post.siteurl }}{% else %}{{ post.url }}{% endif %})  
 {{ post.excerpt | remove: '<p>' | remove: '</p>' | strip }}  
 <span class="post-meta"><span class="category_name">{{ post.categories }}</span> posted on {{ post.date | date: "%b %-d, %Y" }}</span>
 

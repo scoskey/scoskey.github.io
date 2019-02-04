@@ -7,6 +7,6 @@ permalink: /allcourses
 
 {% for post in site.categories.course %}
 
-[{{ post.title }}]({{ post.url }}) {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
+[{{ post.title }}]({% if post.siteurl %}{{ post.siteurl }}{% else %}{{ post.url }}{% endif %}) {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
 
 {% endfor %}

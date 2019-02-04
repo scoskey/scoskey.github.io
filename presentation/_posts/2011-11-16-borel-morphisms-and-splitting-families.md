@@ -4,7 +4,9 @@ tags: tukey splitting
 selected: true
 ---
 
-Michigan logic seminar, Ann Arbor, November 2011 ([video](http://vimeo.com/33577652))<!--more-->
+Michigan logic seminar, Ann Arbor, November 2011<!--more-->
+
+[Watch the video](http://vimeo.com/33577652)
 
 *Description*: This talk will begin with the material from the earlier talk posted [here]({{ site.baseurl }}/the-borel-tukey-order-on-cardinal-invariants). After introducing the background we will focus on just the so-called splitting relation and some of its generalizations. Again, it is joint with Juris Steprāns.
 

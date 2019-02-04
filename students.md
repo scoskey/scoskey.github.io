@@ -8,7 +8,7 @@ permalink: /students
 
 {% for post in site.categories.masters-thesis %}
 
-[{{ post.title }}]({{ post.url }})  
+[{{ post.title }}]({% if post.siteurl %}{{ post.siteurl }}{% else %}{{ post.url }}{% endif %})  
 {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
 
 {% endfor %}
@@ -17,7 +17,7 @@ permalink: /students
 
 {% for post in site.categories.senior-thesis %}
 
-[{{ post.title }}]({{ post.url }})  
+[{{ post.title }}]({% if post.siteurl %}{{ post.siteurl }}{% else %}{{ post.url }}{% endif %})  
 {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
 
 {% endfor %}
