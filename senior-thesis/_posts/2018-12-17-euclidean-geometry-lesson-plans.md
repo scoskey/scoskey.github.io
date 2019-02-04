@@ -1,5 +1,5 @@
 ---
-title: Euclidian geometry - proposed lesson plans
+title: Euclidian geometry proposed lesson plans
 tags: geometry lesson-plan
 siteurl: https://scholarworks.boisestate.edu/math_undergraduate_theses/9/
 ---
