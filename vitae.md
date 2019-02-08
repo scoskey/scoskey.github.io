@@ -33,19 +33,7 @@ Supervised by Simon Thomas. Doctoral thesis titled *Descriptive aspects of torsi
 *The University of Washington*, Seattle, 2000&ndash;2003  
 Supervised by M. Scott Osborne. Senior thesis titled *Partial universes and the axioms of set theory*.
 
-# Research interests
-
-set theory including Borel complexity theory and its applications to algebra/analysis/logic; combinatorics
-
-# Teaching and supervision
-
-discovery learning; team learning; reading, writing, speaking in discipline; REU mentor; master's and senior thesis advisor
-
-# Service and outreach
-
-seminar and conference organizer; Boise Math Circles codirector; course developer; policy coauthor
-
-# -
+# ---
 
 ![mathfest]({{ site.img_base }}/mathfest.jpg)
 
