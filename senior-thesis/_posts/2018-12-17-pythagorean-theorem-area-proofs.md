@@ -1,6 +1,7 @@
 ---
 title: Pythagorean theorem area proofs
 tags: geometry lesson-plan
+siteurl: https://scholarworks.boisestate.edu/math_undergraduate_theses/10/
 ---
 
 A senior thesis by Rachel Morley, Fall 2018<!--more-->
