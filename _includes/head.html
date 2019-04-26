@@ -15,7 +15,20 @@
   {% endif %}
   
   <script type='text/x-mathjax-config'>
-    MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']], processEscapes: true}});
+    MathJax.Hub.Config({
+      tex2jax: {
+        inlineMath: [['$','$'], ['\\(','\\)']],
+        processEscapes: true
+      },
+      TeX: {
+        Macros: {
+          set: ["{\\left\\{ #1 \\right\\}}", 1],
+          abs: ["{\\left| #1 \\right|}", 1],
+          lt: ["<"]
+        }
+      }
+    });
   </script>
   <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-AMS_HTML'></script>
+  
 </head>
