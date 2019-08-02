@@ -5,7 +5,7 @@ tags: computability
 siteurl: https://arxiv.org/abs/1109.3375
 ---
 
-With Joel Hamkins and Russell Miller. *Computability*, 2012.  ([computable reducibility in journal](https://dx.doi.org/10.3233/COM-2012-004))<!--more-->
+With Joel Hamkins and Russell Miller. [*Computability* 1(1):15–38](https://dx.doi.org/10.3233/COM-2012-004), 2012.<!--more-->
 
 *Abstract*: The notion of computable reducibility between equivalence relations on the natural numbers provides a natural computable analogue of Borel reducibility.  We investigate the computable reducibility hierarchy, comparing and contrasting it with the Borel reducibility hierarchy from descriptive set theory.  Meanwhile, the notion of computable reducibility appears well suited for an analysis of equivalence relations on the c.e. sets, and more specifically, on various classes of c.e. structures.  This is a rich context with many natural examples, such as the isomorphism relation on c.e. graphs or on computably presented groups.  Here, our exposition extends earlier work in the literature concerning the classification of computable structures.  An abundance of open questions remains.
 
