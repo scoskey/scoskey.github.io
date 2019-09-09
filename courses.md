@@ -6,6 +6,8 @@ permalink: /courses
 
 # Recent courses
 
+(You can also [view all courses](/allcourses))
+
 {% for post in site.categories.course %}
   {% assign postdate = post.date | date: '%s' %}
   {% assign lower = "August 1, 2015" | date: '%s' %}
@@ -16,4 +18,3 @@ permalink: /courses
   {% endif %}
 {% endfor %}
 
-You can also view [all courses](/allcourses).

@@ -5,6 +5,8 @@ permalink: /presentations
 ---
 # Selected presentations
 
+(You can also [view all presentations](/allpresentations))
+
 {% for post in site.categories.presentation %}
   {% if post.selected %}
 
@@ -14,4 +16,3 @@ permalink: /presentations
   {% endif %}
 {% endfor %}
 
-You can also view [all presentations](/allpresentations).
