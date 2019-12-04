@@ -1,6 +1,7 @@
 ---
 title: The nametag problem
 tags: group-theory
+siteurl: https://scholarworks.boisestate.edu/math_undergraduate_theses/12/
 ---
 
 A senior thesis by Christian Carley, Spring 2019<!--more-->
