@@ -1,6 +1,7 @@
 ---
 title: Combinatorial designs
 tags: combinatorics
+siteurl: https://drive.google.com/file/d/1d3yJbUgSS5FvoBsgiEALCpKlLhNqcRwc/view?usp=sharing
 ---
 
 A senior thesis by Thomas Brice, Spring 2020<!--more-->
