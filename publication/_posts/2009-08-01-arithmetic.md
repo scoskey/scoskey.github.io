@@ -2,7 +2,6 @@
 title: The complexity of classification problems for models of arithmetic
 permalink: /arithmetic
 tags: arithmetic
-selected: true
 siteurl: https://arxiv.org/abs/0908.1718
 pubdate: 2010
 ---

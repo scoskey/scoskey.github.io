@@ -2,7 +2,6 @@
 title: Conjugacy for homogeneous ordered graphs
 permalink: /ordered-graphs
 tags: conjugacy
-selected: true
 siteurl: https://arxiv.org/abs/1804.04609
 pubdate: 2019
 ---

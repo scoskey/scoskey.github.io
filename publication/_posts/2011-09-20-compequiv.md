@@ -2,7 +2,6 @@
 title: The hierarchy of equivalence relations on the natural numbers under computable reducibility
 permalink: /compequiv
 tags: computability
-selected: true
 siteurl: https://arxiv.org/abs/1109.3375
 pubdate: 2012
 ---

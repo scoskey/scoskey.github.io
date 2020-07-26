@@ -2,7 +2,6 @@
 title: The conjugacy problem for automorphism groups of countable homogeneous structures
 permalink: /conjugacy
 tags: conjugacy homogeneous classification
-selected: true
 siteurl: https://arxiv.org/abs/1406.6411
 pubdate: 2016
 ---

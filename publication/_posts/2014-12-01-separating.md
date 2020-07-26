@@ -2,7 +2,6 @@
 title: On generalizations of separating and splitting families
 permalink: /separating
 tags: separating
-selected: true
 siteurl: https://arxiv.org/abs/1412.4683
 pubdate: 2016
 ---

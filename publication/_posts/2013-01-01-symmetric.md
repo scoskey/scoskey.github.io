@@ -1,8 +1,7 @@
 ---
-title: The fundamental theorem on symmetric polynomials - history's first whiff of Galois theory
+title: The fundamental theorem on symmetric polynomials&#58; history's first whiff of Galois theory
 permalink: /symmetric
 tags: galois algebra
-selected: true
 siteurl: https://arxiv.org/abs/1301.7116
 pubdate: 2017
 ---

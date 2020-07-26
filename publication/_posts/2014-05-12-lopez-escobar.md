@@ -2,7 +2,6 @@
 title: A López-Escobar theorem for metric structures, and the topological Vaught conjecture
 permalink: /lopez-escobar
 tags: lopez-escobar metric-structures vaught
-selected: true
 siteurl: https://arxiv.org/abs/1405.2859
 pubdate: 2016
 ---
