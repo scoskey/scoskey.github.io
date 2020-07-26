@@ -5,4 +5,4 @@ siteurl: https://math.boisestate.edu/~scoskey/docs/bsl-elliott-etal-preprint.pdf
 pubdate: 2015
 ---
 
-Review of "The isomorphism relation for separable C\* algebras" by G. Elliott, I. Farah, et al, and "Completeness of the isomorphism problem for separable C\* algebras" by M. Sabok. [*Bulletin of symbolic logic* 21(4):427–430](https://dx.doi.org/10.1017/bsl.2015.33), 2015.
+Review of "The isomorphism relation for separable C\* algebras" by G. Elliott, I. Farah, et al, and "Completeness of the isomorphism problem for separable C\* algebras" by M. Sabok. [*Bulletin of symbolic logic* 21(4):427–430](https://dx.doi.org/10.1017/bsl.2015.33).

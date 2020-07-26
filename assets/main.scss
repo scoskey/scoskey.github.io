@@ -16,6 +16,14 @@ h1[itemprop].post-title {
 header.post-header {
   margin-bottom: 0;
 }
+dt {
+  float: left;
+  clear: left;
+  width: 4.5ch;
+}
+dd {
+  margin-left: 4.5ch;
+}
 
 /* colors */
 header.site-header {
