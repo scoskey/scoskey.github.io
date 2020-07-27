@@ -35,6 +35,6 @@ Supervised by M. Scott Osborne. Senior thesis titled *Partial universes and the 
 
 # ---
 
-![mathfest]({{ site.img_base }}/mathfest.jpg)
+![mathfest]({{ site.url }}/assets/img/mathfest.jpg)
 
-![chalkboard]({{ site.img_base }}/yst.jpg)
+![chalkboard]({{ site.url }}/assets/img/yst.jpg)

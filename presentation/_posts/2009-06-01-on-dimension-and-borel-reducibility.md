@@ -4,7 +4,7 @@ tags: superrigidity tfas
 selected: true
 ---
 
-Workshop on large cardinals and descriptive set theory, Vienna, June 2009. ([Vienna slides]({{ site.slides_base }}/sln-slides.pdf))<!--more-->
+Workshop on large cardinals and descriptive set theory, Vienna, June 2009 ([Vienna slides](https://drive.google.com/file/d/1Vamvb0cch_fL7HKonovBQCS1Lz9w9BEr/view?usp=sharing))<!--more-->
 
 *Abstract*: Borel reducibility of equivalence relations was introduced by Friedman and Stanley in 1989. This powerful concept allows us to use methods of descriptive set theory to compare the complexity of classification problems from other areas of mathematics.
 

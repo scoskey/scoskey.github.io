@@ -1,7 +1,7 @@
 ---
 title: Two articles on the classification of C* algebras
 tags: c*-algebras review
-siteurl: https://math.boisestate.edu/~scoskey/docs/bsl-elliott-etal-preprint.pdf
+siteurl: https://drive.google.com/file/d/10E3222crK11rDGI6c6X5Vy2_xfwrAIF6/view?usp=sharing
 pubdate: 2015
 ---
 

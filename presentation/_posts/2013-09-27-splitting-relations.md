@@ -5,7 +5,7 @@ tags: tukey splitting
 
 Boise Set Theory Seminar, September 2013<!--more-->
 
-*Absract*: Presenting joint work with Juris Steprāns.  This talk is complementary to the earlier talk [here]({{ site.baseurl }}/the-borel-ordering-on-cardinal-characteristics).
+*Abstract*: Presenting joint work with Juris Steprāns.  This talk is complementary to the earlier talk [here]({{ site.baseurl }}/the-borel-ordering-on-cardinal-characteristics).
 
 If $A$ and $B$ are infinite subsets of $\mathbb N$, we say that $A$ *splits* $B$ if both $A\cap B$ and $A^c\cap B$ are infinite.  We call a family $\mathcal F$ of infinite subsets of $\mathbb N$ a *splitting family* if for every infinite set $B$ there is $A\in\mathcal F$ such that $A$ splits $B$.
 
