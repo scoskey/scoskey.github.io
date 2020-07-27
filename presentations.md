@@ -3,9 +3,10 @@ layout: page
 title: Presentations
 permalink: /presentations
 ---
-# Selected presentations
 
-(You can also [view all presentations](/allpresentations))
+# Presentations
+
+(Showing selected presentations; [view all presentations](/allpresentations))
 
 {% assign prevyear = "X" %}
 

@@ -4,9 +4,9 @@ title: Courses
 permalink: /courses
 ---
 
-# Recent courses
+# Courses
 
-(You can also [view all courses](/allcourses))
+(Showing recent courses; [view all courses](/allcourses))
 
 {% for post in site.categories.course %}
   {% assign postdate = post.date | date: '%s' %}

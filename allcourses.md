@@ -3,6 +3,7 @@ layout: page
 title: All courses
 permalink: /allcourses
 ---
+
 # All courses
 
 {% for post in site.categories.course %}
