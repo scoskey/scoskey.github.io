@@ -18,7 +18,7 @@ permalink: /publications
   {% assign displaydate = "∞" %}
 {% endif %}
 
-{% if displaydate != prevdisplaydate %} {{ displaydate }} {% assign prevdisplaydate = displaydate %} {% else %} &nbsp; {% endif %}
+{% if displaydate != prevdisplaydate %} *{{ displaydate }}* {% assign prevdisplaydate = displaydate %} {% else %} &nbsp; {% endif %}
 
 : [{{ post.title }}]({% if post.siteurl %}{{ post.siteurl }}{% else %}{{ post.url }}{% endif %})  
 {{ post.excerpt | remove: '<p>' | remove: '</p>' }}

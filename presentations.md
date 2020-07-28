@@ -14,7 +14,7 @@ permalink: /presentations
   {% if post.selected %}
 
 {% assign postyear = post.date | date: "%Y" %}
-{% if postyear != prevyear %} {{ postyear }} {% assign prevyear = postyear %} {% else %} &nbsp; {% endif %}
+{% if postyear != prevyear %} *{{ postyear }}* {% assign prevyear = postyear %} {% else %} &nbsp; {% endif %}
 
 : [{{ post.title }}]({{ post.url }})  
 {{ post.excerpt | remove: '<p>' | remove: '</p>' }}

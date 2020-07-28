@@ -14,7 +14,7 @@ permalink: /courses
   {% if postdate >= lower %}
 
 {% assign postyear = post.date | date: "%Y" %}
-{% if postyear != prevyear %} {{ postyear }} {% assign prevyear = postyear %} {% else %} &nbsp; {% endif %}
+{% if postyear != prevyear %} *{{ postyear }}* {% assign prevyear = postyear %} {% else %} &nbsp; {% endif %}
 
 : [{{ post.title }}]({% if post.siteurl %}{{ post.siteurl }}{% else %}{{ post.url }}{% endif %}) {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
 
