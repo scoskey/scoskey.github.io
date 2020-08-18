@@ -3,7 +3,7 @@ title: Hyperbinary numbers and fraction trees
 permalink: /calkin-wilf
 tags: calkin-wilf
 siteurl: https://www.mathteacherscircle.org/news/mtc-magazine/s2018/touching-infinity/
-pubdate: 2018
+pubdate: 2018-03-01
 ---
 
 Educational article with Paul Ellis and Japheth Wood. *MTC Magazine*, Spring issue.<!--more-->

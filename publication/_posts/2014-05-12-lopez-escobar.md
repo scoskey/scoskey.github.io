@@ -3,7 +3,7 @@ title: A López-Escobar theorem for metric structures, and the topological Vaugh
 permalink: /lopez-escobar
 tags: lopez-escobar metric-structures vaught
 siteurl: https://arxiv.org/abs/1405.2859
-pubdate: 2016
+pubdate: 2016-01-01
 ---
 
 With Martino Lupini. [*Fundamenta mathematicae* 234:55–72](https://dx.doi.org/10.4064/fm135-1-2016).<!--more-->

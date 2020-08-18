@@ -3,7 +3,7 @@ title: On the classification of vertex-transitive structures
 permalink: /vertex-transitive
 tags: classification
 siteurl: https://arxiv.org/abs/1707.02383
-pubdate: 2019
+pubdate: 2019-01-01
 ---
 
 With John Clemens and Stephanie Potter. [*Archive for mathematical logic* 58(5–6):565–574](https://dx.doi.org/10.1007/s00153-018-0651-2).<!--more-->

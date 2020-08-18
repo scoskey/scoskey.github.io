@@ -3,7 +3,7 @@ title: The fundamental theorem on symmetric polynomials&#58; history's first whi
 permalink: /symmetric
 tags: galois algebra
 siteurl: https://arxiv.org/abs/1301.7116
-pubdate: 2017
+pubdate: 2017-11-01
 ---
 
 With Ben Blum-Smith. [*College mathematics journal* 48(1):18–29](https://dx.doi.org/10.4169/college.math.j.48.1.18).<!--more-->

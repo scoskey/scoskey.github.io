@@ -4,7 +4,7 @@ permalink: /splitsplit
 tags: splitting
 selected: true
 siteurl: https://arxiv.org/abs/1811.12896
-pubdate: 2030
+pubdate: 2025-01-01
 ---
 
 With Bryce Frederickson, Samuel Mathers, and Hao-Tong Yan.<!--more-->

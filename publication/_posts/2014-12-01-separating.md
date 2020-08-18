@@ -3,7 +3,7 @@ title: On generalizations of separating and splitting families
 permalink: /separating
 tags: separating
 siteurl: https://arxiv.org/abs/1412.4683
-pubdate: 2016
+pubdate: 2016-08-01
 ---
 
 With Daniel Condon, Luke Serafin, and Cody Stockdale. [*Electronic journal of combinatorics* 23(3):P3.36](https://www.combinatorics.org/ojs/index.php/eljc/article/view/v23i3p36).<!--more-->

@@ -3,7 +3,7 @@ title: New jump operators on equivalence relations
 permalink: /bernoulli
 tags: reducibility jumps
 siteurl: https://arxiv.org/abs/2008.06613
-pubdate: 2021
+pubdate: 2025-03-01
 ---
 
 With John Clemens.<!--more-->

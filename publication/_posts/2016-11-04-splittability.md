@@ -3,7 +3,7 @@ title: The set splittability problem
 permalink: /splittability
 tags: splitting
 siteurl: https://arxiv.org/abs/1611.01542
-pubdate: 2019
+pubdate: 2019-09-01
 ---
 
 With P. Bernstein, C. Bortner, S. Li, and C. Simpson. [*Australasian journal of combinatorics* 75(2):190–209](https://ajc.maths.uq.edu.au/pdf/75/ajc_v75_p190.pdf).<!--more-->

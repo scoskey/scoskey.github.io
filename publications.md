@@ -6,14 +6,16 @@ permalink: /publications
 
 # Publications and other writing
 
-{% assign thisyear = "now" | date: "%Y" | plus: 0 %}
+{% assign curdate = "today" | date: "%Y-%m-%d" %}
 {% assign prevdisplaydate = "X" %}
 {% assign pubsbydate = site.categories.publication | sort: "pubdate" | reverse %}
 
 {% for post in pubsbydate %}
 
-{% if post.pubdate <= thisyear %}
-  {% assign displaydate = post.pubdate %}
+{% assign pubdate = post.pubdate | date: "%Y-%m-%d" %}
+
+{% if pubdate <= curdate %}
+  {% assign displaydate = pubdate | date: "%Y" %}
 {% else %}
   {% assign displaydate = "∞" %}
 {% endif %}

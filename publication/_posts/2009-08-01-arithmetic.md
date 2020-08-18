@@ -3,7 +3,7 @@ title: The complexity of classification problems for models of arithmetic
 permalink: /arithmetic
 tags: arithmetic
 siteurl: https://arxiv.org/abs/0908.1718
-pubdate: 2010
+pubdate: 2010-09-01
 ---
 
 With Roman Kossak. [*Bulletin of symbolic logic* 16(3):345–358](https://dx.doi.org/10.2178/bsl/1286284557).<!--more-->

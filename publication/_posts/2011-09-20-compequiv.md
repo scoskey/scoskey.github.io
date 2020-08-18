@@ -3,7 +3,7 @@ title: The hierarchy of equivalence relations on the natural numbers under compu
 permalink: /compequiv
 tags: computability
 siteurl: https://arxiv.org/abs/1109.3375
-pubdate: 2012
+pubdate: 2012-01-01
 ---
 
 With Joel Hamkins and Russell Miller. [*Computability* 1(1):15–38](https://dx.doi.org/10.3233/COM-2012-004).<!--more-->
