@@ -1,5 +1,5 @@
 ---
-title: Internal Sorting Methods
+title: Internal sorting methods
 ---
 
 A senior thesis by Rebekah Bitikofer, Fall 2020<!--more-->
