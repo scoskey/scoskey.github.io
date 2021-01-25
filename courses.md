@@ -10,7 +10,7 @@ permalink: /courses
 
 {% for post in site.categories.course %}
   {% assign postdate = post.date | date: '%s' %}
-  {% assign lower = "January 1, 2016" | date: '%s' %}
+  {% assign lower = "January 1, 2017" | date: '%s' %}
   {% if postdate >= lower %}
 
 {% assign postyear = post.date | date: "%Y" %}
