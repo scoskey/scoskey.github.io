@@ -1,5 +1,5 @@
 ---
-title: Combinatorial designs
+title: Four color theorem
 tags: combinatorics
 ---
 

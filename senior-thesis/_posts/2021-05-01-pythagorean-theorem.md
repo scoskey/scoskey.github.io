@@ -1,5 +1,5 @@
 ---
-title: Combinatorial designs
+title: Pythageorean theorem
 tags: combinatorics
 ---
 
