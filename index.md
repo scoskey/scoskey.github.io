@@ -32,6 +32,6 @@ Office MB 238-B
 [Boise State set theory research](https://www.boisestate.edu/math/research/settheory/) in the BSU math department  
 [Boise extravaganza in set theory](https://www.boisestate.edu/math/best/) conference web site  
 [Boise math circles](https://www.boisestate.edu/math/circles/) math for secondary students  
-[Pure math academy](https://www.puremathacademy.com/) boutique math courses for all
+[Pure math academy](https://www.puremathacademy.com/) boutique math courses for all  
 [Set theory talks](http://settheory.mathtalks.org/) worldwide set theory announcements  
 [Mathblogging.org](https://mathblogging.org/) curated collection of math blogs
