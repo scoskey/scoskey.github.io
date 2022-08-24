@@ -28,6 +28,8 @@ permalink: /vitae
 
 # ---
 
+![ufl]({{ site.url }}/assets/img/ufl.jpg)
+
 ![mathfest]({{ site.url }}/assets/img/mathfest.jpg)
 
 ![chalkboard]({{ site.url }}/assets/img/yst.jpg)
