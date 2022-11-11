@@ -1,7 +1,6 @@
 ---
 title: Bernoulli jumps of equivalence relations
 tags: classification scattered jumps
-selected: true
 ---
 
 University of Florida Logic Seminar, Gainesville, November 2020<!--more-->

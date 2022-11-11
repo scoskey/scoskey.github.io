@@ -1,7 +1,6 @@
 ---
 title: Jumps and the classification of scattered linear orders
 tags: classification scattered jumps
-selected: true
 ---
 
 SEALS Conference, Gainesville, February 2020 ([Gainesville slides](https://drive.google.com/file/d/1bGxeEpIPAp10XA31tKn9O452GZWwDiQX/view?usp=sharing))<!--more-->
