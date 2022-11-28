@@ -7,7 +7,7 @@ siteurl: https://arxiv.org/abs/1811.12896
 pubdate: 2022-03-10
 ---
 
-With Bryce Frederickson, Samuel Mathers, and Hao-Tong Yan. [*Australasian journal of mathematics* 82(3):268–296](https://ajc.maths.uq.edu.au/pdf/82/ajc_v82_p268.pdf).<!--more-->
+With Bryce Frederickson, Samuel Mathers, and Hao-Tong Yan. [*Australasian journal of combinatorics* 82(3):268–296](https://ajc.maths.uq.edu.au/pdf/82/ajc_v82_p268.pdf).<!--more-->
 
 *Abstract*: A set $A$ is said to split a finite set $B$ if exactly half the elements of $B$ (up to rounding) are contained in $A$. We study the dual notions: (1) splitting family, which is a collection of sets such that any subset of $\{1,\ldots,k\}$ is split by a set in the family, and (2) splittable family, which is a collection of sets such that there is a single set $A$ that splits each set in the family.
   
