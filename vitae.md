@@ -7,23 +7,23 @@ permalink: /vitae
 # Vitae
 
 **Professor**, 2022&ndash;present  
-**Associate professor**, 2017&ndash;2022  
-**Assistant professor**, 2012&ndash;2017  
+**Associate Professor**, 2017&ndash;2022  
+**Assistant Professor**, 2012&ndash;2017  
 *Boise State University*, Boise
 
-**Fields Ontario postdoctoral fellow**, 2010&ndash;2012  
-*The Fields Institute and York University*, Toronto
+**Fields Ontario Postdoctoral Fellow**, 2010&ndash;2012  
+*The Fields Institute \& York University*, Toronto
 
-**Postdoctoral fellow**, Summer 2009  
+**Postdoctoral Fellow**, Summer 2009  
 *The Max Planck Institute for Mathematics*, Bonn 
 
-**Visiting assistant professor (postdoc)**, 2008&ndash;2010  
-*The CUNY Graduate Center*, New York
+**Postdoctoral Fellow** \& **Visiting Assistant Professor**, 2008&ndash;2010  
+*The CUNY Graduate Center* \& *Hunter College*, New York
 
-**Ph.D., Mathematics**, 2003&ndash;2008  
+**PhD Mathematics**, 2003&ndash;2008  
 *Rutgers University*, New Brunswick
 
-**B.S., Mathematics** and **B.S., Computer science**, 2000&ndash;2003  
+**BS Mathematics** \& **BS Computer Science**, 2000&ndash;2003  
 *The University of Washington*, Seattle
 
 # ---
