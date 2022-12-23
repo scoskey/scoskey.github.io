@@ -12,19 +12,19 @@ permalink: /vitae
 *Boise State University*, Boise
 
 **Fields Ontario Postdoctoral Fellow**, 2010&ndash;2012  
-*The Fields Institute &amp; York University*, Toronto
+*Fields Institute &amp; York University*, Toronto
 
 **Postdoctoral Fellow**, Summer 2009  
-*The Max Planck Institute for Mathematics*, Bonn 
+*Max Planck Institute for Mathematics*, Bonn 
 
 **Postdoctoral Fellow** &amp; **Visiting Assistant Professor**, 2008&ndash;2010  
-*The CUNY Graduate Center* &amp; *Hunter College*, New York
+*CUNY Graduate Center* &amp; *Hunter College*, New York
 
 **PhD Mathematics**, 2003&ndash;2008  
 *Rutgers University*, New Brunswick
 
 **BS Mathematics** &amp; **BS Computer Science**, 2000&ndash;2003  
-*The University of Washington*, Seattle
+*University of Washington*, Seattle
 
 # ---
 
