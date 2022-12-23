@@ -1,6 +1,7 @@
 ---
 title: Tukey morphisms between finite binary relations
 tags: set-theory tukey combinatorics
+siteurl: https://scholarworks.boisestate.edu/td/1868/
 ---
 
 A master's thesis by Rhett Barton, Summer 2021<!--more-->
