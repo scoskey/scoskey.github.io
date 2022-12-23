@@ -3,7 +3,7 @@ title: On the classification of torsion-free abelian groups up to isomorphism an
 tags: superrigidity tfas
 ---
 
-Joint mathematics meetings, San Diego, January 2008 ([San Diego slides](https://drive.google.com/file/d/1gQ6rdkKq-JiVYbrRWJnW25zI7U8q3g88/view?usp=sharing))<!--more-->
+Joint mathematics meetings, San Diego, January 2008<!--more-->
 
 *Abstract*: Up to isomorphism, the torsion-free abelian groups of rank $n$ are members of the following standard Borel space: $R(n)=$ the subgroups of $\mathbb Q^n$ which contain a basis for $\mathbb Q^n$. Hjorth and Thomas have shown that the isomorphism equivalence relations on the $R(n)$ increase in complexity with $n$.
 
