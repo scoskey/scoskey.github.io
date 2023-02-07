@@ -15,7 +15,7 @@ permalink: /vitae
 *Fields Institute &amp; York University*, Toronto
 
 **Postdoctoral Fellow**, Summer 2009  
-*Max Planck Institute for Mathematics*, Bonn 
+*Max Planck Institute for Mathematics*, Bonn
 
 **Postdoctoral Fellow** &amp; **Visiting Assistant Professor**, 2008&ndash;2010  
 *CUNY Graduate Center* &amp; *Hunter College*, New York
@@ -28,8 +28,8 @@ permalink: /vitae
 
 # ---
 
-![ufl]({{ site.url }}/assets/img/ufl.jpg)
+![ufl photo]({{ site.url }}/assets/img/ufl.jpg)
 
-![mathfest]({{ site.url }}/assets/img/mathfest.jpg)
+![mathfest photo]({{ site.url }}/assets/img/mathfest.jpg)
 
-![chalkboard]({{ site.url }}/assets/img/yst.jpg)
+![yst photo]({{ site.url }}/assets/img/yst.jpg)
