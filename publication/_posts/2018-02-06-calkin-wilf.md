@@ -1,7 +1,7 @@
 ---
 title: Hyperbinary numbers and fraction trees
 permalink: /calkin-wilf
-tags: calkin-wilf
+tags: math-circle
 siteurl: https://www.mathteacherscircle.org/news/mtc-magazine/s2018/touching-infinity/
 pubdate: 2018-03-01
 ---
