@@ -21,7 +21,12 @@ Office MB 238-B
 
 [{{ post.title }}]({% if post.siteurl %}{{ post.siteurl }}{% else %}{{ post.url }}{% endif %})  
 {{ post.excerpt | remove: '<p>' | remove: '</p>' | strip }}  
-<span class="post-meta"><span class="category_name">{{ post.categories }}</span> posted on {{ post.date | date: "%b %-d, %Y" }}</span>
+<span class="post-meta">
+{%- for category in post.categories -%}
+<span class="category_name">{{category | split: "-" | join: " "}}</span>
+{%- endfor %}
+posted on {{ post.date | date: "%b %-d, %Y" }}
+</span>
 
 {% endfor %}
 
