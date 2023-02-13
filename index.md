@@ -10,8 +10,6 @@ Boise State University
 Boise, ID 83725-1555  
 
 {{ site.email }}  
-Office MB 238-B
-
 
 <div style="clear:both"></div>
 
