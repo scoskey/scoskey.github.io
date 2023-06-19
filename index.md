@@ -5,16 +5,16 @@ layout: page
 <img style="float:right;margin-left:10px" src="{{ site.baseurl }}/assets/dogsquaresmall.png" alt="dog icon" />
 
 Department of Mathematics  
-Boise State University  
-1910 University Dr  
-Boise, ID 83725-1555  
-United States  
-
-Department of Mathematics  
 University College London  
 25 Gordon Street  
 London WC1H 0AY  
-United Kingdom  
+United Kingdom
+
+Department of Mathematics  
+Boise State University  
+1910 University Dr  
+Boise, ID 83725-1555  
+United States
 
 {{ site.email }}  
 
