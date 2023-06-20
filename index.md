@@ -35,7 +35,7 @@ posted on {{ post.date | date: "%b %-d, %Y" }}
 
 {% endfor %}
 
-**subscribe** via [rss]({{ site.baseurl }}/feed.xml)
+[rss feed]({{ site.baseurl }}/feed.xml)
 
 # Links
 
