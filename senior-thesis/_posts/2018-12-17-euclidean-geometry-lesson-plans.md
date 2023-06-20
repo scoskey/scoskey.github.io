@@ -4,7 +4,7 @@ tags: geometry lesson-plan
 siteurl: https://scholarworks.boisestate.edu/math_undergraduate_theses/9/
 ---
 
-A senior thesis by Joe Willert, Fall 2018<!--more-->
+A senior project by Joe Willert, Fall 2018<!--more-->
 
 *Abstract*: We provide several engaging lesson plans that would aid in the teaching of geometry, specifically targeting Euclidian Geometry, towards students of high school age. The audience of this piece would be high school or college students who have not yet had an introduction to geometry, but have completed the standard mathematical courses leading up to this point (i.e. algebra, elementary math, etc.). This being the case the lessons and concepts realized in Chapter 1 target a basic understanding of what Euclidian Geometry is and the subsequent chapters aim specifically at underlying properties of a geometry. The main source of reference for these lessons and this document is the book Foundations of Geometry Second Edition by Gerard A. Venema.
 
