@@ -35,11 +35,11 @@ posted on {{ post.date | date: "%b %-d, %Y" }}
 
 {% endfor %}
 
-[rss feed]({{ site.baseurl }}/feed.xml)
+[[rss]({{ site.baseurl }}/feed.xml)]
 
 # Links
 
-[Boise State set theory research](https://www.boisestate.edu/math/research/settheory/) in the BSU math department  
+[Boise set theory research](https://www.boisestate.edu/math/research/settheory/) department working group  
 [Boise extravaganza in set theory](https://www.boisestate.edu/math/best/) conference web site  
 [Pure math academy](https://www.puremathacademy.com/) boutique math courses for all  
 [Set theory talks](http://settheory.mathtalks.org/) worldwide set theory announcements  
