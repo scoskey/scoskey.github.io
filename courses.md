@@ -6,6 +6,8 @@ permalink: /courses
 
 # Courses
 
+(Showing recent courses; [view all courses](/allcourses))
+
 {% assign prevyear = "X" %}
 
 {% for post in site.categories.course %}
@@ -20,5 +22,3 @@ permalink: /courses
 
   {% endif %}
 {% endfor %}
-
-([View all past courses](/allcourses))

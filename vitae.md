@@ -6,10 +6,10 @@ permalink: /vitae
 
 # Vitae
 
-**Associate Lecturer (Teaching)**, 2023&ndash;pres.  
+**Associate Lecturer (Teaching)**, 2023&ndash;  
 *University College London*, London
 
-**Professor**, 2022&ndash;pres.  
+**Professor**, 2022&ndash;  
 **Associate Professor**, 2017&ndash;2022  
 **Assistant Professor**, 2012&ndash;2017  
 *Boise State University*, Boise
