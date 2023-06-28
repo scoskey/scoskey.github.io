@@ -3,7 +3,7 @@ title: Borel complexity theory - Classification and structure
 tags: classifiaction
 ---
 
-Mathematics department colloquium, Boise State University, September 2021<!--more-->
+Boise Mathematics Colloquium, Boise, September 2021<!--more-->
 
 *Abstract*: Like other scientific disciplines, mathematics has classification as as one of its primary aims. In sciences one may classify plants or pathologies; in math one classifies objects like functions, graphs, symmetries, and so on. Of course, some classifications are harder than others to carry out. Borel complexity theory is an area of math which provides the tools to identify and compare the complexities of classification problems in mathematics.
 

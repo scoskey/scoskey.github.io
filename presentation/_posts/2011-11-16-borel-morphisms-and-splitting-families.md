@@ -4,7 +4,7 @@ tags: tukey splitting
 selected: true
 ---
 
-Michigan logic seminar, Ann Arbor, November 2011<!--more-->
+Michigan Logic Seminar, Ann Arbor, November 2011<!--more-->
 
 [Watch the video](http://vimeo.com/33577652)
 

@@ -3,7 +3,7 @@ title: Borel reducibility and actions of SLn(Z)
 tags: superrigidity
 ---
 
-Concentration Week in Set Theory and Functional Analysis, Texas A&amp;M, August 2010<!--more-->
+Concentration Week in Set Theory and Functional Analysis, College Station, August 2010<!--more-->
 
 *Abstract*: Borel reducibility is a tool from descriptive set theory which allows one to compare the complexity of classification problems from algebra, analysis and logic. Since many classification problems are captured by equivalence relations induced by a natural group action, this area sometimes resembles orbit equivalence theory.
 
