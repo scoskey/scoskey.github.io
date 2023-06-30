@@ -3,7 +3,7 @@ title: Invariant properties of equivalence relations
 tags: hyperfinite cardinal-characteristics
 ---
 
-CUNY Logic Workshop, February 2010<!--more-->
+CUNY Logic Workshop, New York, February 2010<!--more-->
 
 *Abstract*: A (Borel) equivalence relation E is said to be hyperfinite iff it can be written as a countable increasing union of equivalence relations Fn, each of whose classes is finite. Although these are some of the simplest Borel equivalence relations, there are many open questions concerning their structure.
 

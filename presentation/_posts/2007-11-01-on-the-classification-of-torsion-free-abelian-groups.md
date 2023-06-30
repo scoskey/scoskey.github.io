@@ -3,7 +3,7 @@ title: On the classification of torsion-free abelian groups
 tags: superrigidity tfas
 ---
 
-CUNY Logic Workshop, November 2007<!--more-->
+CUNY Logic Workshop, New York, November 2007<!--more-->
 
 *Abstract*: Hjorth and Thomas have used the theory of countable Borel equivalence relations to show that the classification problem for the torsion-free abelian groups of rank $n$ strictly increases in complexity with the rank $n$. In the first half of the talk, I will present a brief introduction to the theory of countable Borel equivalence relations, including the notion of a *Borel reduction* which provides a complexity comparison for Borel equivalence relations. Then I will show how to identify the classification problem for torsion-free abelian groups of fixed finite rank $n$ with a suitable Borel equivalence relation on a standard Borel space.
 
