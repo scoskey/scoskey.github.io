@@ -2,6 +2,8 @@
 layout: page
 ---
 
+# Contact
+
 <img style="float:right;margin-left:10px" src="{{ site.baseurl }}/assets/dogsquaresmall.png" alt="dog icon" />
 
 Department of Mathematics  
@@ -16,7 +18,7 @@ Boise State University
 Boise, ID 83725-1555  
 United States
 
-{{ site.email }}  
+[{{ site.email }}](mailto:{{ site.email }})
 
 <div style="clear:both"></div>
 
