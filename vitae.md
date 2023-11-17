@@ -34,5 +34,3 @@ permalink: /vitae
 ![ufl photo]({{ site.url }}/assets/img/ufl.jpg)
 
 ![mathfest photo]({{ site.url }}/assets/img/mathfest.jpg)
-
-![yst photo]({{ site.url }}/assets/img/yst.jpg)
