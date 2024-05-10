@@ -12,12 +12,6 @@ University College London
 London WC1H 0AY  
 United Kingdom
 
-Department of Mathematics  
-Boise State University  
-1910 University Dr  
-Boise, ID 83725-1555  
-United States
-
 [{{ site.email }}](mailto:{{ site.email }})
 
 <div style="clear:both"></div>

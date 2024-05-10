@@ -9,7 +9,7 @@ permalink: /vitae
 **Associate Lecturer (Teaching)**, 2023&ndash;  
 *University College London*, London
 
-**Professor**, 2022&ndash;  
+**Professor**, 2022&ndash;2024  
 **Associate Professor**, 2017&ndash;2022  
 **Assistant Professor**, 2012&ndash;2017  
 *Boise State University*, Boise
