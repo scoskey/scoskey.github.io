@@ -6,7 +6,8 @@ permalink: /vitae
 
 # Vitae
 
-**Associate Lecturer (Teaching)**, 2023&ndash;  
+**Lecturer (Teaching)**, 2024&ndash;  
+**Associate Lecturer (Teaching)**, 2023&ndash;2024  
 *University College London*, London
 
 **Professor**, 2022&ndash;2024  

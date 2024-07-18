@@ -35,8 +35,8 @@ posted on {{ post.date | date: "%b %-d, %Y" }}
 
 # Links
 
-[Boise set theory research](https://www.boisestate.edu/math/research/settheory/) department working group  
-[Boise extravaganza in set theory](https://www.boisestate.edu/math/best/) conference web site  
-[Pure math academy](https://www.puremathacademy.com/) boutique math courses for all  
-[Set theory talks](http://settheory.mathtalks.org/) worldwide set theory announcements  
-[Mathblogging.org](https://mathblogging.org/) curated collection of math blogs
+[UCL mathematics](https://ucl.ac.uk/maths/) department home page  
+[Boise mathematics](https://www.boisestate.edu/math/) department home page  
+[Set theory talks](https://settheory.mathtalks.org/) worldwide set theory announcements  
+[Booles’ Rings](https://boolesrings.org/) collated set theory blogs  
+[Mathblogging](https://mathblogging.org/) collated math blogs
