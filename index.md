@@ -36,7 +36,8 @@ posted on {{ post.date | date: "%b %-d, %Y" }}
 # Links
 
 [UCL mathematics](https://ucl.ac.uk/maths/) department home page  
-[Boise mathematics](https://www.boisestate.edu/math/) department home page  
+[Boise mathematics](https://boisestate.edu/math/) department home page  
+[Set theory in the United Kingdom](https://www.dpmms.cam.ac.uk/~dbl25/STUK/) meetings network  
 [Set theory talks](https://settheory.mathtalks.org/) worldwide set theory announcements  
 [Booles’ Rings](https://boolesrings.org/) collated set theory blogs  
 [Mathblogging](https://mathblogging.org/) collated math blogs
