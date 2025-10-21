@@ -32,6 +32,8 @@ permalink: /vitae
 
 # ---
 
+![ucl photo]({{ site.url }}/assets/img/ucl.jpg)
+
 ![ufl photo]({{ site.url }}/assets/img/ufl.jpg)
 
-![mathfest photo]({{ site.url }}/assets/img/mathfest.jpg)
+![maa photo]({{ site.url }}/assets/img/maa.jpg)
