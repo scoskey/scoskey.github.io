@@ -8,7 +8,7 @@ layout: page
 
 Department of Mathematics  
 University College London  
-25 Gordon Street  
+25 Gordon St  
 London WC1H 0AY  
 United Kingdom
 
