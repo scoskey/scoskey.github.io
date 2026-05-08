@@ -2,7 +2,7 @@ title: Samuel Coskey
 email: scoskey@gmail.com
 github_username: scoskey
 description: >
-  Jump right in and discover...
+  Lecturer (Teaching) at UCL Mathematics
 url: "https://scoskey.org"
 baseurl: ""
 permalink: /:categories/:title/
@@ -14,7 +14,7 @@ excerpt_separator: <!--more-->
 
 # main menu
 header_pages:
-  - courses.md
+  - lecturing.md
   - publications.md
   - presentations.md
   - students.md
