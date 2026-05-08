@@ -4,7 +4,7 @@ title: Lecturing
 permalink: /lecturing
 ---
 
-# Teaching
+# Lecturing
 
 (Showing recent lecturing; [view all lecturing](/alllecturing))
 
