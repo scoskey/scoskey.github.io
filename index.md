@@ -6,24 +6,23 @@ layout: page
 
 <!-- <img style="float:right;margin-left:10px" src="{{ site.baseurl }}/assets/dogsquaresmall.png" alt="dog icon" /> -->
 
+[{{ site.email }}](mailto:{{ site.email }})
+
+[s.coskey@ucl.ac.uk](mailto:s.coskey@ucl.ac.uk)
+
 Department of Mathematics  
 University College London  
 25 Gordon St  
 London WC1H 0AY  
 United Kingdom
 
-[s.coskey@ucl.ac.uk](mailto:s.coskey@ucl.ac.uk)
-
-[{{ site.email }}](mailto:{{ site.email }})
-
 # Links
 
-[UCL mathematics](https://ucl.ac.uk/maths/)
+[My UCL Profile](https://profiles.ucl.ac.uk/93787-samuel-coskey)
 
-[My UCL profile](https://profiles.ucl.ac.uk/93787-samuel-coskey)
+[UCL Mathematics Department](https://ucl.ac.uk/maths/)
 
-[Set theory in the United Kingdom](https://www.dpmms.cam.ac.uk/~dbl25/STUK/)
-
+[Set Theory in the United Kingdom](https://www.dpmms.cam.ac.uk/~dbl25/STUK/)
 
 <!-- 
 <div style="clear:both"></div>
@@ -42,13 +41,13 @@ posted on {{ post.date | date: "%b %-d, %Y" }}
 </span>
 
 {% endfor %}
+-->
 
-[[rss]({{ site.baseurl }}/feed.xml)]
+<!-- [[rss]({{ site.baseurl }}/feed.xml)] -->
 
+<!--
 # Links
 
-[UCL mathematics](https://ucl.ac.uk/maths/) department home page  
-[Boise mathematics](https://boisestate.edu/math/) department home page  
 [Set theory talks](https://settheory.mathtalks.org/) worldwide set theory announcements  
 [Booles’ Rings](https://boolesrings.org/) collated set theory blogs  
 [Mathblogging](https://mathblogging.org/) collated math blogs
