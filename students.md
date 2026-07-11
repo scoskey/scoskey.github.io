@@ -4,7 +4,7 @@ title: Students
 permalink: /students
 ---
 
-# Master's thesis students
+# Master's projects
 
 {% for post in site.categories.masters-thesis %}
 
@@ -13,7 +13,7 @@ permalink: /students
 
 {% endfor %}
 
-# Senior thesis students
+# Undergraduate projects
 
 {% for post in site.categories.senior-thesis %}
 
